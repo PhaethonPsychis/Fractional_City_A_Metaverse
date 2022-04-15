@@ -1,8 +1,8 @@
 # Fractional Cities
 # ⚡️ The fractional city: A Metaverse
-"This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership of city's revenues, and participate in collective decision making. In its final form this metaverse is populated by avatar representations of real people that share ownership of their city and the cyber space <br><br>
+This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership of city's revenues, and participate in collective decision making. In its final form this metaverse is populated by avatar representations of real people that share ownership of their city and the cyber space <br>
 
-This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the physical urban environment at.<br><br>
+This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the physical urban environment at.<br>
 
 The fractionalisation of the city is a new paradigm for urbanization, that is creating new types of asset classes in all three realities: in the physical, cyber urban and virtual space. These multi dimensional assets are used for the collective governance, management and development of the city using the metaverse.<br>
  
