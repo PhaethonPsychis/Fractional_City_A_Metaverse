@@ -12,7 +12,7 @@ But it’s time to begin. It’s time to build!
 
 # 🛠 Building and running cities: A blueprint for Urbanization
 #### Collective development of a city. Fractional ownership. Revenue sharing among citizens!<br>
-Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power is access to a cyber governance system that let people organize and fund the development of new cities.<br>
+Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power comes in the fomr of access to a cyber governance system that let people organize and fund the development of new cities.<br>
 Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
 Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives.<br> 
 The meta city cooperative is governed by communities from the metaverse and can reach new groups of people who are looking for a business community with shared social, cultural or economic goals<br><br> 
