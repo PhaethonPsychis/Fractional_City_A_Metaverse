@@ -11,12 +11,10 @@ The new cyber-urban environment is a Metaverse where contemporary urban people c
 But it’s time to begin. It’s time to build!
 
 # 🛠 Building and running cities: A blueprint for Urbanization
-#### Collective development of a city. Fractional ownership. Revenue sharing among citizens!<br>
-Think of this metaverse as a powerhouse that communities can plug into and get power to build cities. This power comes in the fomr of access to a cyber governance system that let people organize and fund the development of new cities.<br>
-Metaverse operates as a platform for decentralised governance that has the potential to draw citizens from around the world to develop the city and the public goods or utility services<br>
-Any kind of organization public, private, or nonprofit can be established as a metaverse-cooperative and allow for fractional ownership. The city is a decentralised network of all these cooperatives.<br> 
-The meta city cooperative is governed by communities from the metaverse and can reach new groups of people who are looking for a business community with shared social, cultural or economic goals<br><br> 
-Citizens interact with digital organizations through their avatar representations that live in the metaverse<br><br> 
+#### The purpose of the  Fractional city is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world.
+The Fractional Cyber-Urban City is a powerhouse that communities can plug into and get power to build cities. This power comes in the form of access to a decentralized cyber governance system that unlock the potential of societies for production and renewal<br> 
+The Fractional City working is an open source project, enables any kind of organization, public utility corporation,  public, private, or nonprofit can be established as a collective <br> Collective ownership can encourage cooperative strategies and revenue sharing amongst participants. It is also a unique way to unlock liquidity and community building around the most popular projects. Example of projects are:  public open spaces, cooperative utility corporations, health and education systems
+The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
 
 # 👫 Decentralized Autonomous Joint development Working Group  👫👫👫👫
 #### What is the purpose of the working group?
