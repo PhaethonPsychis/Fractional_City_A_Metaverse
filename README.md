@@ -1,9 +1,10 @@
 # Fractional Cities
 # ⚡️ The fractional city: A Metaverse
-This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership of city's revenues, and participate in collective decision making. In its final form this metaverse is populated by avatar representations of real people that share ownership of the city and use the metaverse as a platform for cooperative governance <br><br>
-Fractional ownership of a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
+This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership in city's revenues, and participate in collective decision making. 
+Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
 
 This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world and the physical urban environment and the collective ownership of the public space.<br><br>
+In its final form this metaverse is populated by avatar representations of real people that share ownership of the city and use the metaverse as a platform for cooperative governance <br><br>
  
 # 💎 A new era for cyber-urban life
 The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
@@ -17,35 +18,36 @@ Any kind of organization public, private, or nonprofit can be established as a m
 The meta city cooperative is governed by communities from the metaverse and can reach new groups of people who are looking for a business community with shared social, cultural or economic goals<br><br> 
 Citizens interact with digital organizations through their avatar representations that live in the metaverse<br><br> 
 
-# 👫 Decentralized Autonomous Working Group for Joint development  👫👫👫👫
+# 👫 Decentralized Autonomous Joint development Working Group  👫👫👫👫
 #### What is the purpose of the working group?
 The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
 We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
 ### 👉This working group will study the following areas:<br>
-This list 👇🏾 is open for consideration and is undergoing rapid iteration and changes<br>
 
-* ✨ Digital Crypto Economic Zones as a plug and play platform<br>
-* ✨ Digital Crypto Economic Zones and Private Urbanization<br>
-* ✨Native Metaverse Cooperatives. EIP<br>
-* ✨Fractional Ownership of cities. A new class of multi dimensional assets<br>
-* ✨The cyber city needs a Network of rollups.<br>
-* ✨Turning Informal cities into powerful economies<br>
-* ✨The cyber city as a metaverse<br>
+* ✨ Digital Crypto Economic Zones. A plug and play platform<br>
+* ✨ Digital Crypto Economic Zones and Private-Collective Urbanization<br>
+* ✨ Native Metaverse Cooperatives. EIP<br>
+* ✨ Fractional Ownership of cities. A new class of multi dimensional assets<br>
+* ✨ The cyber-urban city is a network of rollups.<br>
+* ✨ Turning Informal cities into powerful economies<br>
+* ✨ The Metaverse for the Fractional City<br>
+The list is open for consideration and is undergoing rapid iteration and changes<br>
+
 
 ### 🌐 Design a unique transformative economic and social reform blueprint that is opening [insert region] up to the world.
-The group will also organize a decentralized competition in the following context:
+The group will also organize an international competition where the best proposals and prizes will emerge from community voting.
  
-
-### prototype of a virtual city<br>
+### Build a prototype of a virtual city<br>
 The group will also build a prototype of a virtual city that will be used as a testbed for future research in the field of fractional cities and the CyberUrban Metaverse.<br>
 This is an outline of our intentions. It is up to the community to continue these projects and to build on the work that has been done.
 
-# 🚀 Our ecosystem
-We create an incentives system and and governance structuree to provide community with the means to coordinate towards a common goal. We want to enable the organic formation of a self-organized permissionless working group where everyone can participate and contribute. We are establishing a blockhain based autonomous ecosystem that allows participants to collaborate with each other to make decisions on the direction and implementation of the project.<br>
+# 🚀 Self-Organised Joint Development
+To participate in the "Joint development Working Group" people need to purchase a vote from the voteVening machine. A smart contract deployed on Ethereum. We create a governance structure and an incentives system to enable participants to collaborate with each other, and to make decisions on the direction and implementation of the project.<br>
+We want this to be a self-organized and self-funded project that emerges from the ground. We want to allow for the organic formation of a self-organized permissionless working group where everyone can participate and contribute. Since smart contracts where initially conceived as "vending machine" we are using them to sell tickets and votes to fund teams, and projects.
 
-
+Our ecosystem 
 # Governance token $VOTE
 The $VOTE token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
 
