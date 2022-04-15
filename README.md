@@ -1,4 +1,4 @@
-# Fractional Cities
+# Fractional Cities Joint Development Initiative
 # ⚡️ The Metaverse is the interface to experience our urban environments
 This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
