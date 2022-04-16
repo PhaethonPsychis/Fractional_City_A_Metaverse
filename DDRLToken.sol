@@ -6,9 +6,9 @@ import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol";
 
 
-contract MLVERC20 is ERC20, Ownable {
+contract DDRLToken is ERC20, Ownable {
 
-    uint256 public constant minimumMintInterval = 60 seconds;
+    uint256 public constant minimumMintInterval = 365 days;
     uint256 public constant mintCap = 200; // 2%
 
     uint256 public nextMint; // Timestamp
@@ -16,9 +16,9 @@ contract MLVERC20 is ERC20, Ownable {
 
     constructor()
 
-        ERC20("Metaverse Lands Vision", "MLV") {
-        _mint(msg.sender, 500000);
-        _mint(address(this), 2000000);
+        ERC20("Autonomous Metaverse Cities Decentralised Design Research Lab", "DDRL") {
+        _mint(msg.sender, 20000000);
+        _mint(address(this), 200000000);
         nextMint = block.timestamp + minimumMintInterval;
     }
 
