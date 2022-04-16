@@ -1,5 +1,6 @@
 # Autonomous Metaverse Cities Decentralised Design Research Lab
-
+The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
+We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
 ## ⚡️ The Metaverse is the interface to experience our urban environments
 This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
@@ -26,8 +27,7 @@ The Metaverse has the potential to draw citizens from around the world, and reac
 # 👫 Decentralized Autonomous Joint development Working Group  👫👫👫👫
 #### What is the purpose of the working group?
 The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
-The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
-We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
+
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
 ### 👉This working group will study the following areas:<br>
 
