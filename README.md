@@ -1,6 +1,12 @@
-# Autonomous Metaverse Cities Decentralised Design Research Lab
-The aim of this working group is to study, research and develop the field of fractional cities and the CyberUrban Metaverse and build a prototype of a virtual city.<br> 
-We invite Schools of Archtecture and Urban Planning, Architects, Coders, Policymakers, innovators, companies, universities, civil society organizations, and citizens to participate and contribute.<br><br> 
+## Autonomous Metaverse Cities X Decentralised Design Research Lab
+Autonomous Metaverse Cities is a solution and model for Private Cities development backed by fractional ownership in the city's revenue streams.<br>
+DDRL the Decentralised Design Research Lab challenges the current paradigm on how we design and develop new cities and how we (re)think the way we live within our new urban environments with the use of Metaverse<br>
+## $DDRL Token
+$DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab. The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power <br><br>
+## Buy $DDRL
+Use this smart contract vending machine to buy the token and participate in the DDRL
+https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
+
 ## ⚡️ The Metaverse is the interface to experience our urban environments
 This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
