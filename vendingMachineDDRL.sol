@@ -8,9 +8,12 @@ import "https://github.com/PhaethonPsychis/playmaker/blob/main/MLVERC20.sol";
 
 // a vending mchine for selling votes at a fixed price
 // $DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab. 
-// The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction 
-// and implementation of the project. The more DDRL tokens a user has locked in their voting contract, 
+// The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote 
+// on the direction and implementation of the project. The more DDRL tokens a user has locked in their voting contract, 
 // the greater the decision-making power 
+//  ***** DDRL Autonomous Metaverse Cities **********
+// is a collective community-owned solution and model for Private Cities development backed by 
+//  fractional ownership in the city's revenue streams
 
 contract vendingMachineDDRL is Ownable{
 
