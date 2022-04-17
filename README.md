@@ -1,5 +1,5 @@
 ## Autonomous Metaverse Cities X Decentralised Design Research Lab
-Autonomous Metaverse Cities is a solution and model for Private Cities development backed by fractional ownership in the city's revenue streams.<br>
+Autonomous Metaverse Cities is a solution and model for Private Cities development backed by fractional ownership in the city's revenue streams.
 DDRL the Decentralised Design Research Lab challenges the current paradigm on how we design and develop new cities and how we (re)think the way we live within our new urban environments with the use of Metaverse<br>
 ## $DDRL Token
 $DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab. The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power <br><br>
