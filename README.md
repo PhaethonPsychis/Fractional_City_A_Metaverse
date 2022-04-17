@@ -13,7 +13,7 @@ The purpose of the DDRL is to create a  unique transformative economic and socia
 DDRL investigates the way Metaverse enables communities and local governance to take essential next steps in developing a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
 
 ## ⚡️ The Metaverse is the interface to experience our urban environments
-This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership in city's revenues, and participate in collective decision making.<br>
+This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
 
 This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment <br><br>
@@ -23,9 +23,9 @@ In its final form this metaverse becomes the interface to our physical urban and
 The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 But it’s time to begin. It’s time to build!
 
-# 👫 Decentralized Autonomous Joint development Working Group  👫👫👫👫
-#### What is the purpose of the working group?
-The fractional city offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
+## 👫 Decentralized Joint development network  👫👫👫👫
+
+The Autonomous Metaverse City offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
 ### 👉This working group will study the following areas:<br>
