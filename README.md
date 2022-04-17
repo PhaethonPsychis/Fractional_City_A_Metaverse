@@ -7,6 +7,11 @@ $DDRL is an Ethereum token that gives holders governance rights in the Decentral
 Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
 ## https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
+## 🛠 Autonomous Metaverse Cities
+The purpose of the DDRL is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world. DDRL develops Autonomous Metaverse Cities as a critical response to the failures of centrally-planned government policies and the demand for new private cities and urbanization models<br>
+## How does AM Cities use the Metaverse?
+DDRL investigates the way Metaverse enables communities and local governance to take essential next steps in effecting change. The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
+
 ## ⚡️ The Metaverse is the interface to experience our urban environments
 This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire fractional ownership in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
@@ -17,19 +22,6 @@ This innovation, still very early in its evolution, serves as the basis for the 
 In its final form this metaverse becomes the interface to our physical urban and architectural environments, populated by avatar representations of real people that collectively own the cyber-urban space<br><br>
 The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 But it’s time to begin. It’s time to build!
-
-## 🛠 Autonomous Metaverse Cities
-
-#### The purpose of the DDRL is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world.
-Fractional city is a stack of three superimposed layers that are governed from within the metaverse:  
-Regulation Framework
-Fractional cities have their own commercial code, regulation-making and administrative capacities
-Fractional cities are built, managed and governed from within the metaverse. It is a powerhouse that communities can plug into and get power to build cities. This power comes in the form of access to a decentralized cyber governance framework that introduces new rules to unlock the potential of societies for production and renewal<br> 
-Digital Crypto Economic Zone
-Open-Source cooperative Governance, Collective asset ownership and management. treasury
-The Fractional City is an open source project, enables any kind of organization, public utility corporation,  public, private, or nonprofit can be established as a collective <br> Collective ownership can encourage cooperative strategies and revenue sharing amongst participants. It is also a unique way to unlock liquidity and community building around the most popular projects. Example of projects are:  public open spaces, cooperative utility corporations, health and education systems
-urban planning territory 
-The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
 
 # 👫 Decentralized Autonomous Joint development Working Group  👫👫👫👫
 #### What is the purpose of the working group?
@@ -60,7 +52,7 @@ To participate in the "Joint development Working Group" people need to purchase 
 We want this to be a self-organized and self-funded project that emerges from the ground. We want to allow for the organic formation of a self-organized permissionless working group where everyone can participate and contribute. Since smart contracts where initially conceived as "vending machine" we are using them to sell tickets and votes to fund teams, and projects.
 
 Our ecosystem 
-# Governance token $VOTE
+## Governance token $VOTE
 The $VOTE token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
 
 The $VOTE community token enables holders to contribute in many ways<br>
@@ -72,11 +64,8 @@ The $VOTE tokens create a decentralized market for talent that enables people an
 $VOTE tokens can also be used to redeem future services, such as a participation certificate.<br>
 
 
-# 📬 Name and addresses registry
-An address system for the avatars to find their way on Metaverse
-
-# 🏙 Metaverse Lands  
-A Virtual Land registry system to serve a community-building platform facilitating social interaction, commerce, and entertainment.
+## A Virtual City:🏙 Metaverse Lands  📬 Name and addresses registry
+A Virtual Lands, address and avatar name registry system to serve as community-building platform facilitating social interaction, commerce, and services.
 
 
 # ❓ FAQ
