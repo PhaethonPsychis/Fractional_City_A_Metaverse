@@ -18,8 +18,9 @@ In its final form this metaverse becomes the interface to our physical urban and
 The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 But it’s time to begin. It’s time to build!
 
-## 🛠 A blueprint for Urbanization
-#### The purpose of the  Fractional city is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world.
+## 🛠 Autonomous Metaverse Cities
+
+#### The purpose of the DDRL is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world.
 Fractional city is a stack of three superimposed layers that are governed from within the metaverse:  
 Regulation Framework
 Fractional cities have their own commercial code, regulation-making and administrative capacities
