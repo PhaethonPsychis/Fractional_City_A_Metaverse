@@ -6,9 +6,13 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 //import "@openzeppelin/contracts/utils/Context.sol";
 import "https://github.com/PhaethonPsychis/playmaker/blob/main/MLVERC20.sol";
 
-// a vending mchine for selling votes at a fixed price 
+// a vending mchine for selling votes at a fixed price
+// $DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab. 
+// The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction 
+// and implementation of the project. The more DDRL tokens a user has locked in their voting contract, 
+// the greater the decision-making power 
 
-contract vendor is Ownable{
+contract vendingMachineDDRL is Ownable{
 
     //initiate token
     DDRLToken public _DDRLToken;
@@ -25,7 +29,7 @@ contract vendor is Ownable{
     event SellTokens(address seller, uint256 amountOfTokens, uint256 amountOfETH);
 
     constructor (address tokenAddress) {
-        _MLVERC20 = MLVERC20(tokenAddress);
+        _DDRLToken = DDRL(tokenAddress);
     }
     //owner sets a price for the ticket
     function setTicketPrice(uint _price) public onlyOwner {
