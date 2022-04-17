@@ -6,18 +6,18 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 //import "@openzeppelin/contracts/utils/Context.sol";
 import "https://github.com/PhaethonPsychis/playmaker/blob/main/MLVERC20.sol";
 
-// a vending mchine for selling tickets 
+// a vending mchine for selling votes at a fixed price 
 
 contract vendor is Ownable{
 
     //initiate token
-    MLVERC20 public _MLVERC20;
+    DDRLToken public _DDRLToken;
 
 
     //contract state variables
-   uint internal internal_number;
-   uint256 public price;
-   //uint public amountTickets;
+    uint internal internal_number;
+    uint256 public price;
+    //uint public amountTickets;
 
   
     // Event that log buy operation
