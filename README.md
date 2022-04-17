@@ -4,7 +4,7 @@ DDRL the Decentralised Design Research Lab challenges the current paradigm on ho
 ## $DDRL Token
 $DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab. The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power <br><br>
 ## Buy $DDRL
-Use this smart contract vending machine to buy the token and participate in the building of Autonomous cyber urban worlds!
+Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
 ## https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## ⚡️ The Metaverse is the interface to experience our urban environments
