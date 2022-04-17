@@ -8,7 +8,7 @@ Use this smart contract vending machine to buy the token and participate in the 
 ## https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 Autonomous Metaverse Cities
-The purpose of the DDRL is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world. DDRL develops Autonomous Metaverse Cities as a critical response to the failures of centrally-planned government policies and the demand for new private cities and urbanization models<br>
+The purpose of the DDRL is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world.<br><br> DDRL develops Autonomous Metaverse Cities as a critical response to the failures of centrally-planned government policies and the demand for new private cities and urbanization models<br>
 ## How does AM Cities use the Metaverse?
 DDRL investigates the way Metaverse enables communities and local governance to take essential next steps in effecting change. The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
 
