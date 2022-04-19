@@ -1,82 +1,55 @@
 ## Autonomous Metaverse Cities X Decentralised Design Research Lab
-Autonomous Metaverse Cities is a model for Private Cities development backed by fractional ownership in the city's revenue streams.<br><br>
-DDRL the Decentralised Design Research Lab challenges the current paradigm on how we design and develop new cities and how we (re)think the way we live within our new urban environments with the use of Metaverse<br>
-## $DDRL Token
-$DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab.<br><br> The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project.<br><br> The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power <br><br>
-## Buy $DDRL
-Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
-## https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
+Autonomous Metaverse Cities is a model for Private Cities development backed by fractional ownership in the city's revenue streams.<br><br> AMECX is a city in which everyone can own a fraction of it, and help shape its development.<br><br>
 
-## 🛠 Autonomous Metaverse Cities
-The purpose of the DDRL is to create a  unique transformative economic and social reform blueprint that is opening a region up to the world.<br><br> DDRL develops Autonomous Metaverse Cities as a critical response to the failures of centrally-planned government policies and the demand for new private cities and urbanization models<br>
-## How does AM Cities use the Metaverse?
-DDRL investigates the way Metaverse enables communities and local governance to take essential next steps in developing a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
+## 🛠 What is DDRL?
+DDRL is a self-organised ecosystem of communities and teams that support the design and development of Autonomous Cyber Urban environments.<br><br> Our goal is to solve the problems associated with Private Cities : investors funding, participation and governance.
+#### Creating a Metaverse
+By introducing a Metaverse we enable communities and local governance to take essential next steps in developing a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world, and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 
-## ⚡️ The Metaverse is the interface to experience our urban environments
-This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
-Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
-
-This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment <br><br>
- 
-## 💎 A new era for cyber-urban life
-In its final form this metaverse becomes the interface to our physical urban and architectural environments, populated by avatar representations of real people that collectively own the cyber-urban space<br><br>
-The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
-But it’s time to begin. It’s time to build!
+## Why Autonomous Cities? 
+AMECX is a critical response to the failures of centrally-planned government policies. 
 
 ## 👫 Incentivized Joint development  👫👫👫👫
 
 The Autonomous Metaverse City offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
-
-We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
-👉This working group will study the following areas:<br>
-
-* ✨ Digital Crypto Economic Zones. A plug and play platform<br>
-* ✨ Digital Crypto Economic Zones and Private-Collective Urbanization<br>
-* ✨ Native Metaverse Cooperatives. EIP<br>
-* ✨ Fractional Ownership of cities. A new class of multi dimensional assets<br>
-* ✨ The cyber-urban city is a network of rollups.<br>
-* ✨ Turning Informal cities into powerful economies<br>
-* ✨ The Metaverse for the Fractional City<br>
-The list is open for consideration and is undergoing rapid iteration and changes<br>
+### Roadmap to the development of an Autonomous City
 
 
-### 🌐 Design a unique transformative economic and social reform blueprint that is opening [insert region] up to the world.
-The group will also organize an international competition where the best proposals and prizes will emerge from community voting.
+### 🌐 Design a unique transformative economic and social reform blueprint that brings a region up to the world.
+International multi disciplinary event
  
-### Build a prototype of a virtual city<br>
-The group will also build a prototype of a virtual city that will be used as a testbed for future research in the field of fractional cities and the CyberUrban Metaverse.<br>
-This is an outline of our intentions. It is up to the community to continue these projects and to build on the work that has been done.
+### 🏙 Metaverse Lands  📬 Name and addresses registry
+A Virtual Land, address and avatar name registry system is under development. Their purpose is to serve as a community-building platform facilitating social interaction, commerce, and services while helping people build capacity with web3 technologies and governance processes.
 
-# 🚀 Self-Organised Joint Development
-To participate in the "Joint development Working Group" people need to purchase a vote from the voteVening machine. A smart contract deployed on Ethereum. We create a governance structure and an incentives system to enable participants to collaborate with each other, and to make decisions on the direction and implementation of the project.<br>
-We want this to be a self-organized and self-funded project that emerges from the ground. We want to allow for the organic formation of a self-organized permissionless working group where everyone can participate and contribute. Since smart contracts where initially conceived as "vending machine" we are using them to sell tickets and votes to fund teams, and projects.
 
-Our ecosystem 
-## Governance token $VOTE
-The $VOTE token is a governance token that allows holders to vote on the direction and implementation of the project. Hence $LNDOG is a tool for distributing the value and power over the development of the ecosystem to the community
+## 🚀 $DDRL incentives and governance Token: Building an ecosystem with the community
+$DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab.<br><br> The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project.<br><br> The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power <br><br>
+### Buy $DDRL
+Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
+### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
-The $VOTE community token enables holders to contribute in many ways<br>
-📢 Innovative participation.The $VOTE gives a voting right to community members to express their views, vote for what they believe, and exercise control.<br> 
 💰 $VOTE tokens represent community resources to share across the network where all participating services and products accept<br>
-The $VOTE tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
+$DDRL tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
 
-🏗 $VOTE tokens are redeemable for metaverse land. You may exchange your $VOTE tokens to buy virtual land at a desirable address or a meta-domain name.<br>
-$VOTE tokens can also be used to redeem future services, such as a participation certificate.<br>
+🏗 $DDRL tokens are redeemable. You may exchange them to buy virtual land at a desirable address or a meta-domain name or use them to redeem future services, such as a participation certificate.<br>
 
 
-## A Virtual City:🏙 Metaverse Lands  📬 Name and addresses registry
-A Virtual Lands, address and avatar name registry system to serve as community-building platform facilitating social interaction, commerce, and services.
+
 
 
 # ❓ FAQ
-By operating as a decentralized platform, this metaverse, deploys participatory systems for decentralized governance to enable people to share ownership of the cyber-physical space and receive the earnings of the city.
+### ⚡️ The Metaverse is the interface to create new cities!
+This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
+Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
 
-that allow people to take ownership of the cyberurban and part
+This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment <br><br>
+
+### 💎 A new era for cyber-urban life. The Metaverse is the interface to experience our urban environments!
+In its final form this metaverse becomes the interface to our physical urban and architectural environments, populated by avatar representations of real people that collectively own the cyber-urban space<br><br>
+The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 
 
-coordinate actions towards a common goal, create, exchange, and take ownership of their digital assets and the public space<br><br>
-
-####  What kind of technology is the metaverse?
+###  What kind of technology is the metaverse?
 The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities<br><br>
 
 This is a living document and we will update it as the community grows and the project evolves<br>
