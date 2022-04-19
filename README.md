@@ -23,12 +23,12 @@ In its final form this metaverse becomes the interface to our physical urban and
 The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
 But it’s time to begin. It’s time to build!
 
-## 👫 Decentralized Joint development network  👫👫👫👫
+## 👫 Incentivized Joint development  👫👫👫👫
 
 The Autonomous Metaverse City offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 
 We will provide a process to organize the community in the absence of a centralized leader, to describe standards, business models, and processes.<br>
-### 👉This working group will study the following areas:<br>
+👉This working group will study the following areas:<br>
 
 * ✨ Digital Crypto Economic Zones. A plug and play platform<br>
 * ✨ Digital Crypto Economic Zones and Private-Collective Urbanization<br>
