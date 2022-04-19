@@ -1,5 +1,5 @@
 ## Autonomous Metaverse Cities X Decentralised Design Research Lab
-Autonomous Metaverse Cities is a model for Private Cities development backed by fractional ownership in the city's revenue streams.<br><br> AMECX is a city in which everyone can own a fraction of it, and help shape its development.<br><br>
+Autonomous Metaverse Cities is a model for Private Cities development backed by fractional ownership in the city's revenue streams.Eeveryone can own a fraction of THE CITY, and help shape its development.<br><br>
 
 ## 🛠 What is DDRL?
 DDRL is a self-organised ecosystem of communities and teams that support the design and development of Autonomous Cyber Urban environments.<br><br> Our goal is to solve the problems associated with Private Cities : investors funding, participation and governance.
