@@ -1,4 +1,5 @@
-## A Metaverse for developing new cities from scratch X . Everyone can own a fraction of THE CITY, and help shape its development.<br><br>
+## A Metaverse for developing new cities from scratch X .
+ Everyone can own a fraction of THE CITY, and help shape its development.<br><br>
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
 DDRL is a self-organised ecosystem of communities and teams that support the design and development of Autonomous Cyber Urban environments.<br><br> Our goal is to solve the problems associated with Private Cities: investors funding, participation and governance.
