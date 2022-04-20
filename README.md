@@ -3,13 +3,13 @@ Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 
 ## $DDRL fractions of an iconic metaverse
-Fractions unlock value. Because $DDRL holders are granted governance and membership rights the DDRL Metaverse becomes a new paradigm as a community-owned developed and operated network.<br>
+Fractions unlock value. Because $DDRL holders are granted governance and membership rights the DDRL Metaverse is a community-owned developed and operated network.<br>
 ### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
 DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that build this metaverse. The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance and to provide an economic and social reform blueprint that brings a region up to the world<br><br>
 #### Creating a Metaverse
-By introducing a Metaverse we enable communities and local governance to take essential next steps in developing a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
+By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 
 ## Why Autonomous Cities? 
 AMECX is a critical response to the failures of centrally-planned government policies. 
