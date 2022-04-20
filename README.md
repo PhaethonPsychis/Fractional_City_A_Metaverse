@@ -4,7 +4,7 @@ Everyone can own a fraction of the city, and help shape its future.🎖 Fraction
 
 ## 🎖🎖🎖🎖🎖🎖 $DDRL Fractions of an iconic metaverse 
 Fractions unlock the value of the network. $DDRL grants holders governance and membership rights, over the metaverse development<br>
-Exchange Rate
+>Exchange Rate
 ### ✨ $DDRL 10000 PER ETH  👇🏾
 ###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
