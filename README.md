@@ -2,9 +2,8 @@
 Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 
-## Buy $DDRL, unlock liquidity and community building around DDRL
-The token s giving holders the right to vote on the direction and implementation of the project.
-You can buy the token to join the community and contribute
+## $DDRL fractions: unlock participation in the most iconic metaverse
+Fractions give holders the right to vote on the direction and implementation of the project
 ### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
