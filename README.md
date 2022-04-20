@@ -2,7 +2,7 @@
 Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
 🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly start a city from scratch, acquire a fraction in city's revenues, and participate in governance<br><br>
 
-## 🚀 $DDRL fractions of an iconic metaverse
+## 🎖🎖🎖🎖🎖🎖 $DDRL fractions of an iconic metaverse 🎖🎖🎖🎖🎖🎖
 Fractions unlock value. Because $DDRL grant holders governance and membership rights the DDRL Metaverse is a community-owned network developed and operated by its members.<br>
 You can buy  👇🏾
 ###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
