@@ -1,6 +1,6 @@
 # 🛸 A Metaverse for collective ownership of cities
 Everyone can own a fraction of the city, and help shape its future. Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br>
-🫂 🎮 This metaverse is specifically constructed to enable a collective of people to jointly start a city, acquire a fraction in city's revenues, and participate in governance<br><br>
+🫂 🎮 DDRL Metaverse is specifically constructed to enable a collective of people to jointly start a city, acquire a fraction in city's revenues, and participate in governance<br><br>
 
 ## 🚀 $DDRL fractions of an iconic metaverse
 Fractions unlock value. Because $DDRL grant holders governance and membership rights the DDRL Metaverse is a community-owned network developed and operated by its members.<br>
