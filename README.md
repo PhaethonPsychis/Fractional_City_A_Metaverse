@@ -1,13 +1,14 @@
-# A Metaverse for collective ownership of cities
+# 🛸 A Metaverse for collective ownership of cities
 Everyone can own a fraction of the city, and help shape its future. Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br>
-This metaverse is specifically constructed to enable a collective of people to jointly start a city, acquire a fraction in city's revenues, and participate in governance<br><br>
+🫂 🎮 This metaverse is specifically constructed to enable a collective of people to jointly start a city, acquire a fraction in city's revenues, and participate in governance<br><br>
 
-## $DDRL fractions of an iconic metaverse
-Fractions unlock value. Because $DDRL holders are granted governance and membership rights the DDRL Metaverse is a community-owned developed and operated network.<br>
+## 🚀 $DDRL fractions of an iconic metaverse
+Fractions unlock value. Because $DDRL grant holders governance and membership rights the DDRL Metaverse is a community-owned network developed and operated by its members.<br>
+
 ### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
-DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that build this metaverse. The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance and to provide an economic and social reform blueprint that brings a region up to the world<br><br>
+DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that build this metaverse. The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance. In another aspect DDRLM provides an economic and social reform blueprint that brings a region up to the world<br><br>
 #### Creating a Metaverse
 By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 
