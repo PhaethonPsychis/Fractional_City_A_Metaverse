@@ -1,7 +1,7 @@
-## A Metaverse for developing new cities from scratch X Decentralised Design Research Lab
+## A Metaverse for developing new cities from scratch X 
 Autonomous Metaverse Cities is a model for Private Cities development backed by fractional ownership in the city's revenue streams. Everyone can own a fraction of THE CITY, and help shape its development.<br><br>
 
-## 🛠 What is DDRL?
+## 🛠 What is the DDRL Decentralized Design Research Lab?
 DDRL is a self-organised ecosystem of communities and teams that support the design and development of Autonomous Cyber Urban environments.<br><br> Our goal is to solve the problems associated with Private Cities: investors funding, participation and governance.
 #### Creating a Metaverse
 By introducing a Metaverse we enable communities and local governance to take essential next steps in developing a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
