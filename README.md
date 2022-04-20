@@ -1,6 +1,5 @@
 ## A Metaverse for developing new cities from scratch X .
 Everyone can own a fraction of the city, and help shape its future<br><br>
-
 We are cretaing a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 Join and contribute 
 
