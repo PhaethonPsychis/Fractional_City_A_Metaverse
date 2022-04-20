@@ -12,17 +12,17 @@ DDRL is a crypto-cooperative, a self-organised ecosystem of communities and team
 #### Creating a Metaverse
 By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 
-## Why Autonomous Cities? 
-AMECX is a critical response to the failures of centrally-planned government policies. 
+## What kind of Cities can we build? 
+DDRLM offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. <br><br>This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment. <br><br>
+Cyber-Urban Environments is a critical response to the failures of centrally-planned government policies. 
 
 ## 👫 Incentivized Joint development  👫👫👫👫
-
-The Autonomous Metaverse City offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. Building that vision is a task too large and too important for any organization to tackle on its own.<br>
+Building that vision is a task too large and too important for any organization to tackle on its own.<br>
 ### Roadmap to the development of an Autonomous City
 
-
+International competition event for multi disciplinary teams.
 ### 🌐 Design a unique transformative economic and social reform blueprint that brings a region up to the world.
-International multi disciplinary event.
+
  
 ### 🏙 Metaverse Lands  📬 Name and addresses registry
 A Virtual Land, address, and avatar name registry system is under development. Their purpose is to serve as a community-building platform facilitating social interaction, commerce, and services while helping people build capacity with web3 technologies and governance processes.
@@ -37,11 +37,7 @@ $DDRL tokens create a decentralized market for talent that enables people anywhe
 
 🏗 $DDRL tokens are redeemable. You may exchange them to buy virtual land at a desirable address or a meta-domain name or use them to redeem future services, such as a participation certificate.<br>
 
-
-
-
-
-# ❓ FAQ
+## ❓ FAQ
 ### ⚡️ The Metaverse is the interface to create new cities!
 This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
