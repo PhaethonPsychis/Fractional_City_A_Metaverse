@@ -2,8 +2,8 @@
 Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 Join and contribute 
-### Buy $DDRL
-Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
+#### The $DDRL voting token s giving holders the right to vote on the direction and implementation of the project.
+You can buy the token to join the community and contribute
 ### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
