@@ -1,5 +1,5 @@
 ## A Metaverse for developing new cities from scratch X .
- Everyone can own a fraction of THE CITY, and help shape its development.<br><br>
+ Everyone can own a fraction of THE CITY, and help shape its future<br><br>
 Join and contribute 
 Autonomous Metaverse Cities is a model for Private Cities development backed by fractional ownership in the city's revenue streams
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
