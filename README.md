@@ -18,18 +18,17 @@ DDRLM offers a better model for how societies should develop cities, how citizen
 Cyber-Urban Environments is a critical response to the failures of centrally-planned government policies. 
 
 ## 👫 Incentivized Joint development  👫👫👫👫
-Building that vision is a task too large and too important for any organization to tackle on its own.<br>
-### Roadmap to the development of an Autonomous City
+Building the DDRL Metaverse is a task too large and too important for any organization to tackle on its own. We invite all stakeholders to join the movement<br>
+### Roadmap 
 
-International competition event for multi disciplinary teams.
+International competition event. Details TBD
 ### 🌐 Design a unique transformative economic and social reform blueprint that brings a region up to the world.
 
- 
+Under development.
 ### 🏙 Metaverse Lands  📬 Name and addresses registry
-A Virtual Land, address, and avatar name registry system is under development. Their purpose is to serve as a community-building platform facilitating social interaction, commerce, and services while helping people build capacity with web3 technologies and governance processes.
+A Virtual Land. Get the most desirable address at an iconic location
 
-
-## 🚀 $DDRL incentives and governance Token: Building an ecosystem with the community
+### 🚀 $DDRL incentives and governance Token: Building an ecosystem with the community
 $DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab.<br><br> The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project.<br><br> The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power. <br><br>
 
 
