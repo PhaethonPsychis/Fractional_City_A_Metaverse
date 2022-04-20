@@ -2,14 +2,15 @@
 Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
 🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly start a city from scratch, acquire a fraction in city's revenues, and participate in governance<br><br>
 
-## 🎖🎖🎖🎖🎖🎖 $DDRL fractions of an iconic metaverse 🎖🎖🎖🎖🎖🎖
-Fractions unlock the value of the network. Because $DDRL grants holders governance and membership rights, the metaverse is community-owned, developed, and operated by its members.<br>
-You can buy  👇🏾
+## 🎖🎖🎖🎖🎖🎖 $DDRL fractions of an iconic metaverse 
+Fractions unlock the value of the network. $DDRL grants holders governance and membership rights, over the metaverse development<br>
+Exchange Rate
+## ✨ $DDRL 10000 PER ETH  👇🏾
 ###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
 DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that build this metaverse. <br><br> The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br><br> In another aspect DDRLM provides an economic and social reform blueprint that brings a region up to the world<br><br>
-#### Creating a Metaverse
+#### Use the Metaverse to enable communities-local governance partnerships
 By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 
 ## What kind of Cities can we build? 
