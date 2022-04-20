@@ -2,6 +2,9 @@
 Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 Join and contribute 
+### Buy $DDRL
+Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
+### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
 DDRL is a self-organised ecosystem of communities and teams that support the design and development of Autonomous Cyber Urban environments.<br><br> Our goal is to solve the problems associated with Private Cities: investors funding, participation and governance.
@@ -26,11 +29,9 @@ A Virtual Land, address, and avatar name registry system is under development. T
 
 ## 🚀 $DDRL incentives and governance Token: Building an ecosystem with the community
 $DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab.<br><br> The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project.<br><br> The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power. <br><br>
-### Buy $DDRL
-Use this smart contract vending machine to buy the token and participate in the design of Autonomous Cyber Urban Worlds!
-### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
-💰 $VOTE tokens represent community resources to share across the network where all participating services and products accept<br>
+
+💰 $DDRL tokens represent community resources to share across the network where all participating services and products accept<br>
 $DDRL tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
 
 🏗 $DDRL tokens are redeemable. You may exchange them to buy virtual land at a desirable address or a meta-domain name or use them to redeem future services, such as a participation certificate.<br>
