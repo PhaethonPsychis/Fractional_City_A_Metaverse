@@ -3,11 +3,11 @@ Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 
 ## $DDRL fractions of an iconic metaverse
-Fractions give holders the right to vote on the direction and implementation of the project<br>
+Fractions unlock value. Because $DDRL holders are granted governance and membership rights the DDRL Metaverse becomes a new paradigm as a community-owned developed and operated network.<br>
 ### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
-DDRL is a self-organised ecosystem of communities and teams that support the design and development of Autonomous Cyber Urban environments.<br><br> Our goal is to solve the problems associated with Private Cities: investors funding, participation and governance.
+DDRL is a self-organised ecosystem of communities and teams that support the design and development of a metaverse. The purpose of the metaverse is to solve the problems associated with Private Cities: investors funding, participation and governance.
 #### Creating a Metaverse
 By introducing a Metaverse we enable communities and local governance to take essential next steps in developing a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 
