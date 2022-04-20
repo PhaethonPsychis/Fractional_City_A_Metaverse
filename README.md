@@ -2,7 +2,7 @@
 Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 
-## $DDRL fractions: unlock participation in the most iconic metaverse
+## $DDRL fractions of an iconic metaverse
 Fractions give holders the right to vote on the direction and implementation of the project
 ### https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
