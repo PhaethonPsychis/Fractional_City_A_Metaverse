@@ -1,8 +1,8 @@
-## A Metaverse for Fractional ownership of the world’s most sought after asset: Cities
+## A Metaverse for collective ownership of cities
 Everyone can own a fraction of the city, and help shape its future<br>
 We are creating a metaverse to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making<br><br>
 
-## A Metaverse for collective ownership of cities
+
 Everyone can own a fraction of the city, and help shape its future<br>
 
 ## $DDRL Collective ownership of a metaverse
