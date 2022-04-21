@@ -9,7 +9,7 @@ Fractions unlock the value of the network. $DDRL grants holders governance and m
 ###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
-DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that are focused on building this metaverse.<br>The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br><br> In another aspect DDRLM provides an economic and social reform blueprint that brings a region up to the world<br><br>
+DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that are focused on building this metaverse.<br>The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br> The DDRLM aims to provide an economic and social reform blueprint that brings a region up to the world<br>
 
 #### Use the Metaverse to enable communities-local governance partnerships
 By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
