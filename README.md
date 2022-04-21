@@ -1,4 +1,4 @@
-# 🛸 A Metaverse for collective, decentralized, programmable ownership of cities
+# 🛸 A Metaverse for collective ownership of cities and decentralized, programmable governance!
 Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
 🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly contribute to the development of a new city from scratch.<br>
 
