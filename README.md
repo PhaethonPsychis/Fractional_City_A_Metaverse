@@ -2,8 +2,8 @@
 Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
 🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly contribute to the development of a new city from scratch.<br>
 
-## 🎖🎖🎖🎖🎖🎖 $DDRL Fractions of an iconic metaverse 
-Fractions unlock the value of the network. $DDRL grants holders governance and membership rights, over the metaverse development<br>
+## 🍕 $DDRL Fractions of an iconic metaverse 
+Fractions unlock the value of the network. The $DDRL token gives people the power to vote on the direction and implementation of the DDRL Metaverse project.<br>
 >Exchange Rate
 ### ✨ $DDRL 10000 PER ETH  👇🏾
 ###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
@@ -38,7 +38,7 @@ Under development.
 A Virtual Land. Get the most desirable address at an iconic location
 
 ### 🚀 $DDRL incentives and governance Token: Building an ecosystem with the community
-$DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab.<br><br> The DDRL Token governs the development of the "Autonomous Cities in the Metaverse" project, giving holders the right to vote on the direction and implementation of the project.<br><br> The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power. <br><br>
+$DDRL is an Ethereum token that gives holders governance rights in the Decentralised Research and Design Lab.<br><br> The DDRL Token governs the development of the "DDRL Metaverse" project, giving holders the right to vote on the direction and implementation of the project.<br><br> The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power. <br><br>
 
 
 💰 $DDRL tokens represent community resources to share across the network where all participating services and products accept<br>
