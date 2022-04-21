@@ -1,6 +1,6 @@
 # 🛸 A Metaverse for collective ownership of cities
 Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
-🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly start a city from scratch, acquire a fraction in city's revenues, and participate in governance<br><br>
+🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly contribute to the development of a new city from scratch.<br>
 
 ## 🎖🎖🎖🎖🎖🎖 $DDRL Fractions of an iconic metaverse 
 Fractions unlock the value of the network. $DDRL grants holders governance and membership rights, over the metaverse development<br>
@@ -12,7 +12,7 @@ Fractions unlock the value of the network. $DDRL grants holders governance and m
 DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that are focused on building this metaverse. The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br> 
  
 #### The Cyber Urban Metaverse—increases our capacity to fund and develop entire new cities
-By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
+By introducing a Metaverse we enable communities and local governance to take essential next steps in starting very large scale urbanization developments.<br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
 #### Use the Metaverse to create an economic and social reform blueprint <br>
 Autonomous Cities with the use of Cyber-Urban Environments are a critical response to the failures of centrally-planned government policies.
 
