@@ -6,7 +6,7 @@ Everyone can own a fraction of the city, and help shape its future.🎖 Fraction
 Fractions unlock the value of the network. The $DDRL token gives people the power to vote on the direction and implementation of the DDRL Metaverse project.<br>
 >Exchange Rate
 ### ✨ $DDRL 10000 PER ETH  👇🏾
-###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
+###  🏁 https://etherscan.io/address/0x16a85e619709769dc275cf9284f8c835a8ebec78#readContract
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
 DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that are focused on building this metaverse. The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br> 
