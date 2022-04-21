@@ -9,14 +9,15 @@ Fractions unlock the value of the network. $DDRL grants holders governance and m
 ###  🏁 https://etherscan.io/token/0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4
 
 ## 🛠 What is the DDRL Decentralized Design Research Lab?
-DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that are focused on building this metaverse.<br>The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br> The DDRLM aims to provide an economic and social reform blueprint that brings a region up to the world<br>
-
-#### Use the Metaverse to enable communities-local governance partnerships
+DDRL is a crypto-cooperative, a self-organised ecosystem of communities and teams that are focused on building this metaverse.<br>The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and  governance.<br> The DDRLM aims 
+ 
+#### The Cyber Urban Metaverse—increases our capacity to fund and develop entire new cities
 By introducing a Metaverse we enable communities and local governance to take essential next steps in starting a new city from scratch.<br><br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
+#### Use the Metaverse to create an economic and social reform blueprint <br>
+Autonomous Cities with the use of Cyber-Urban Environments are a critical response to the failures of centrally-planned government policies.
 
 ## What kind of Cities can we build? 
 DDRLM offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. <br><br>This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment. <br><br>
-Cyber-Urban Environments is a critical response to the failures of centrally-planned government policies. 
 
 ## DDRL generates innovation  and push the boundaries on:
 >What is a metaverse and how to use it to eliminate poverty<br><br>
