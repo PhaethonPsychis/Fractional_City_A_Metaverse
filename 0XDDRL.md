@@ -1,4 +1,4 @@
-### A NEW CYBER URBAN CITY AWAITS 
+### THE INTERNET CITY DECENTRALIZED RESEARCH AND DEVELOPMENT 
 Crypto, web3, and metaverse, the new internet, is a group of technologies we can use to create new models for urban environments, and build new cities from scratch to create economic and social reform.<br>
 There is an opportunity for a decentralized research and development ecosystem to help investigate the integration of metaverse technologies in the production, collective ownership, and programmable governance of entirely new cities and help shape a blueprint for the cyber urban city by bringing together the very best research teams from the various disciplines that are relevant to the space.
 
