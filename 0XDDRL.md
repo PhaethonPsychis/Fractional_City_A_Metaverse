@@ -1,11 +1,22 @@
-## PRIVATE CITIES DECENTRALIZED RESEARCH LAB
+## PRIVATE CITIES DOMAIN RESEARCH
 Crypto, web3, and internet, the new metaverse, is a group of technologies we can use to create new models for urban environments, and build new cities from scratch to create economic and social reform.<br>
 
-### DECENTRALIZED DESIGN AND DEVELOPMENT RESEARCH ECOSYSTEM
-There is an opportunity for a decentralized research and development ecosystem to help investigate the integration and application of crypto-web3 technologies in the domain of Private Cities and the production of entirely new urban environments. 0XDDRL promotes innovation in collective ownership, and programmable governance of cities.  and help shape a prototype for the cyber urban city by bringing together the very best research teams from the various disciplines that are relevant to the space.
+### DECENTRALIZED LAB
+There is an opportunity for a decentralized lab to help investigate the integration of crypto-web3 technologies with the production of Private Cities and help build the first city with cyber urban programmable governance by bringing together the very best research teams from the various disciplines that are relevant to the space.
+We three pillars of development are:
 
-### 0XDDRL ORGANIZATIONAL STRUCTURE
-The lab is an experimental application 
+### Development of City models on decentralized platforms. 
+We support experimental Decentralised programmable Governance and collective ownership applications that use novel technologies, such as zero-knowledge cryptography. 0xDDRL city project push the boundaries of what is technically possible with blockchain applications.
+
+### Design of blockchain networks
+
+### Development of 
+
+
+
+
+### 0XDDRL DECENTRALIZED ECOSYSTEM ORGANIZATIONAL STRUCTURE
+The lab is an experimental application. The development of the ecosystem and the development of the domain 
 
 ### 0XDDRL PURPOSE
 0XDDRL promotes innovation in the design and development of new cities from scratch. 0XDDRL promotes the Cyber Urban Metaverse, a model for collective ownership of cities, with decentralized, programmable governance!
