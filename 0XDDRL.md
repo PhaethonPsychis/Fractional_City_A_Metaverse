@@ -3,15 +3,19 @@ Crypto, web3, and internet, the new metaverse, is a group of technologies we can
 
 ### DECENTRALIZED LAB
 There is an opportunity for a decentralized lab to help investigate the integration of crypto-web3 technologies with the production of Private Cities and help build the first city with cyber urban programmable governance by bringing together the very best research teams from the various disciplines that are relevant to the space.<br>
-The three pillars of research are:
+The research is built around three main themes:
 
-###  Models of cities for Collective ownership, and decentralized, programmable governance on blockchain platforms. 
-We support experimental Decentralised programmable Governance and collective ownership applications that use novel technologies, such as zero-knowledge cryptography. 0xDDRL city project push the boundaries of what is technically possible with blockchain applications.
+###  Create Models for cities  on blockchain platforms. 
+for Collective ownership, and decentralized, programmable governance. We support experimental Decentralised programmable Governance and collective ownership applications that use novel technologies, such as zero-knowledge cryptography. 0xDDRL city project push the boundaries of what is technically possible with blockchain applications.
 
-### Design of blockchain networks
+### Develop the domain of the Cyber Urban Metaverse
+Cyber Urban Metaverse is the virtual space to enable citizens interact with the built environment and the local governance 
+This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment.
 
-### Development of 
-
+### Design a blueprint for a cyber urban city that:
+-increases our capacity to fund and develop entire new cities 
+-create an economic and social reform that brings the entire region up to the world standard
+-A new era for cyber-urban life
 
 
 
