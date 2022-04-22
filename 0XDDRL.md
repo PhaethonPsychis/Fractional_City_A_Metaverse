@@ -18,45 +18,24 @@ Cyber Urban Metaverse is the virtual space to enable citizens interact with the 
 This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment.
 
 #### Design a metaverse- blockchain, web3, governance, treasury, policy framework- that:
-* increases our capacity to fund and develop entire new cities 
+* increases our capacity to fund and develop new cities 
 * create an economic and social reform that brings the entire region up to the world standard
 * A new era for cyber-urban life
+* 
 
 ### 0XDDRL ECOSYSTEM DEVELOPMENT
 The Decentralized Design Research Lab is an experiment aiming to push the boundaries in the creation of self-organising ecosystem for education, research and development on the domain of autonomous cities. We create the 0XDDRL crypto economy to enable communities to participate. 
 
-### 
-Fractions unlock the value of the network. The $DDRL token gives people the power to vote on the direction and implementation of the DDRL Metaverse project.
+### $DDRL Fractions of an iconic research lab
+Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and on the direction and implementation of the research.
 
 
 
 ### 0XDDRL MISSION AND PURPOSE
-0XDDRL promotes innovation in the design and development of new cities from scratch. 0XDDRL promotes the Cyber Urban Metaverse, a model for collective ownership of cities, with decentralized, programmable governance!
+0XDDRL promotes innovation in the design and development of new cities from scratch. 
 
-//The purpose of DDRL 
-
-_ The purpose of 0XDDRL is:
-    to create the metaverse for the Cyber Urban City
-    to develop a blueprint for the Cyber Urban City
-        the purpose of the C.U. City is to enable societies to accelerate the rate of urbanization and create economic and social reform
-   
-    to investigate the application of blockchain technologies in the domain of Private Cities 
+The purpose of DDRL 
+* is to enable societies to accelerate the rate of urbanization and create economic and social reform
+* The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and governance.
 
 
- 
-The purpose-area of focus
-of a blueprint to increases our capacity to fund and develop entire new cities that bring economic and social reform in entire regions
-promotes innovation in the field of design and development of new cities 
-
-is a new model for Decentralized Design Research 
-
-_ DDRLA ORGANIZATION STRUCTURE
-0XDDRL is an experiment in self-organization of decentralized research and development ecosystems.  
-
- The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and governance.
-
-### 0XDDRL CRYPTO ECONOMY
-_ 0XDDRL is building its own Token based economy to self funded 
-$DDRL is building an economy
-
-promotes a new model for Cyber-Urban Cities to solve collective ownership of cities and decentralized programmable governance
