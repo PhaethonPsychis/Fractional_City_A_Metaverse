@@ -32,7 +32,7 @@ _ DDRLA ORGANIZATION STRUCTURE
 
  The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and governance.
 
-
+### 0XDDRL CRYPTO ECONOMY
 _ 0XDDRL is building its own Token based economy to self funded 
 $DDRL is building an economy
 
