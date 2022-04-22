@@ -22,8 +22,11 @@ This innovation, still very early in its evolution, serves as the basis for the 
 * create an economic and social reform that brings the entire region up to the world standard
 * A new era for cyber-urban life
 
-### 0XDDRL DECENTRALIZED DESIGN RESEARCH LAB:ORGANIZATIONAL STRUCTURE
-The Decentralized Design Research Lab is an experiment aiming to push the boundaries in the creation of self-organising education, research and development ecosystem. We create the 0XDDRL crypto economy to enable communities to participate
+### 0XDDRL ECOSYSTEM DEVELOPMENT
+The Decentralized Design Research Lab is an experiment aiming to push the boundaries in the creation of self-organising ecosystem for education, research and development on the domain of autonomous cities. We create the 0XDDRL crypto economy to enable communities to participate. 
+
+### 
+Fractions unlock the value of the network. The $DDRL token gives people the power to vote on the direction and implementation of the DDRL Metaverse project.
 
 
 
