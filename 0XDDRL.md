@@ -6,7 +6,7 @@ There is an opportunity for a decentralized lab to help investigate the integrat
 To drive transformation the lab addresses the most pressing issues confronting private cities.<br>
 The research structure
 
-#### Models and protocols for cities on blockchain platforms that encompasses Collective ownership, and decentralized, programmable governance.
+#### Models of cities and protocols on blockchain platforms that encompasses Collective ownership, and decentralized, programmable governance.
 * Shaping the "Fractional city". The model-protocol enables a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making
 * The Autonomous City. Decentralized, programmable policy, planning and urban governance. 
 * The collective City. The city is a decentralized network of crypto-cooperatives owned by the citizens
