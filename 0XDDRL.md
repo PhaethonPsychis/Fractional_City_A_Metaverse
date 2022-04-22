@@ -13,9 +13,9 @@ Cyber Urban Metaverse is the virtual space to enable citizens interact with the 
 This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment.
 
 ### Design a blueprint for a cyber urban city that:
--increases our capacity to fund and develop entire new cities 
--create an economic and social reform that brings the entire region up to the world standard
--A new era for cyber-urban life
+* increases our capacity to fund and develop entire new cities 
+* create an economic and social reform that brings the entire region up to the world standard
+* A new era for cyber-urban life
 
 
 
