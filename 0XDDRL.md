@@ -2,7 +2,7 @@
 Crypto, web3, and internet, the new metaverse, is a group of technologies we can use to create new models for urban environments, and build new cities from scratch to create economic and social reform.<br>
 
 ## DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for a decentralized lab to help investigate the integration of crypto-web3 technologies with the production of Private Cities and help build the first city with cyber urban programmable governance by bringing together the very best research teams from the various disciplines that are relevant to the space.<br>
+There is an opportunity for a decentralized lab to help investigate the integration of crypto-web3 technologies with the production of private cities and help build the first city with cyber urban programmable governance by bringing together the very best research teams from the various disciplines that are relevant to the space.<br>
 To drive transformation the lab addresses the most pressing issues confronting private cities.<br>
 The research structure
 #### Investigate the application of blockchain networks on the level of a metropolitan city 
