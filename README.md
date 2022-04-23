@@ -19,15 +19,6 @@ By introducing a Metaverse we enable communities and local governance to take es
 #### Use the Metaverse to create an economic and social reform blueprint <br>
 Autonomous Cities with the use of Cyber-Urban Environments are a critical response to the failures of centrally-planned government policies.
 
-
-
-## DDRL generates innovation  and push the boundaries on:
->What is a metaverse and how to use it to eliminate poverty<br><br>
->new models for the design and development on cities and infra systems <br><br>
->Socio-Economic development models<br><br>
->Research and development Ecosystems<br><br>
->Expand the discourse of Architecure<br><br>
-
 ## 👫 Incentivized Joint development  👫👫👫👫
 Building the DDRL Metaverse is a task too large and too important for any organization to tackle on its own. We invite all stakeholders to join the movement<br>
 ### Roadmap 
