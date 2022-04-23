@@ -1,5 +1,6 @@
 ## AUTONOMOUS CYBER URBAN CITIES RESEARCH
 Crypto, web3, and internet, the new metaverse, is a group of technologies we can use to create new models for urban environments, and build new cities from scratch to create economic and social reform.<br>
+Cities are the core of growth and human development. Harnessing crypto-web3 technologies we can create a cyber-urban infrastructure to accelerate Urbanization and create succesful cities for Growth and Poverty Alleviation.
 
 ## DECENTRALIZED DESIGN RESEARCH LAB
 There is an opportunity for a decentralized lab to help investigate the integration of crypto-web3 technologies with the production of private cities and help build the first city with cyber urban programmable governance by bringing together the very best research teams from the various disciplines that are relevant to the space.<br>
@@ -7,8 +8,9 @@ To drive transformation the lab addresses the most pressing issues confronting p
 The research structure
 #### Investigate the application of blockchain networks on the level of a metropolitan city 
 0XDDRL city project aim to push the boundaries of what is technically possible with blockchain applications and create a functioning prototype. We support experimental open source protocols.<br>
-#### Create Models of cities and protocols on blockchain platforms that encompasses Collective ownership, and decentralized, programmable governance.
-* Shaping the "Fractional city". The model-protocol enables a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making
+#### Create Models-protocols of cities on blockchain platforms
+This group is focused on collective ownership, and decentralized, programmable governance. Think of models as a composable system that create the city.
+* The "Fractional city". The model-protocol enables a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making
 * The Autonomous City. Decentralized, programmable policy, planning and urban governance. 
 * The collective City. The city is a decentralized network of crypto-cooperatives owned by the citizens
 We support experimental applications that use novel technologies, such as zero-knowledge cryptography. 
