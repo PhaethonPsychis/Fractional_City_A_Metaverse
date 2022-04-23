@@ -1,7 +1,7 @@
 ## AUTONOMOUS CYBER URBAN CITIES RESEARCH
 Crypto, web3, and internet, the new metaverse, is a group of technologies we can use to create new models for urban environments, and build new cities from scratch to create economic and social reform.<br>
 Cities are the core of growth and human development. Harnessing crypto-web3 technologies we can accelerate Urbanization and create succesful cities for Growth and Poverty Alleviation.
-#### Joint ownership
+#### Joint development and collective ownership
 A cyber urban system specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.
 #### City Fractions: A new class of assets
 Fractional ownership in a city, is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.
