@@ -1,35 +1,28 @@
 ## AUTONOMOUS CYBER URBAN CITIES RESEARCH
-Blockchain, web3, and internet, have unlocked the field of private urban developments at a regional scale for innovation and disruption. This tech stack unlocks our potential to design new models of cities and develop new private metropolises that can harness the transformational power of urbanization, and bring an entire region upto the world standard.<br>
-Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. Because Cities are at the core of growth and human development increasing their production output is important.
-
-
-
-To create succesful cities for Growth and Poverty Alleviation we will need to re-imagine the city, build new mental models and identify ways to integrate a  a complex system of blockchain networks into the design and production of our architectural and urban [governance] space
-
-Conceptual models we are working on are:
+Blockchain, web3, and internet, have unlocked the field of private urban developments for innovation and disruption. This group of technologies, unlocks our potential to design new models of cities and develop new private metropolises at a regional level that can harness the transformational power of urbanization<br><br>
+Because Cities are at the core of growth and human development a succesful ciy can bring an entire region upto the world standard.<br><br>
+Building a new regional metropolis with the cyber urban space fully embedded in the design, production and governance of our cyber-physical environment uncovers new research challenges.<br><br> These challenges include hard questions about the vision of the city and new mental models of the cyber-urban realities.<br><br> There are also fundamental challenges on how the protocols should be structured to help citizens coordinate and how to identify ways to integrate a complex system of blockchain networks into the design and production of our architectural and urban [governance] space.<br><br>
+Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The vision we are working to build contains the following conceptual models:<br><br>
 #### Joint development and collective ownership
 A cyber urban system specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.
 #### City Fractions: New classes of assets
 Fractional ownership in a city, is a new paradigm that is creating new types of asset classes in the physical, and cyber space. The range of the term "assets" include public utility cooperatives, public goods, the public space and natural resources, and city's revenues. These multi dimensional assets are used for the collective governance, management and development of the city.
-#### The cyber urban metaverse
+#### The vision for cyber urban worlds
 
-## DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for a decentralized lab to coordinate the integration of crypto-web3 technologies with the production of private cities and help build the first autonomous metropolitan city by bringing together the very best research teams from the various disciplines that are relevant to the space.<br>
-To drive transformation the lab addresses the most pressing issues confronting private cities.<br>
+## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
+There is an opportunity for an urban development lab to enable visions and naratives for cyber-urban realities to emerge and to coordinate the integration of crypto-web3 technologies into these models by bringing together talent from the various disciplines that are relevant to the space and communities.<br> The second pillar of the lab is to take these scientific breakthroughs into production and enable communities to build the new metropolisses, and create territorial and societal transformations.<br><br>
+#### WEBUILD X 0XDDRL
+Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
+The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of talent, teams and communities, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
 
-
-### 0XDDRL ECOSYSTEM DEVELOPMENT
-The Decentralized Design Research Lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development on the domain of autonomous cities. We create the 0XDDRL crypto economy to enable communities to participate. 
+### 0XDDRL TOKEN ECONOMY 
+OXDDRL is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development. 
+We create the 0XDDRL crypto economy to enable communities to participate. 
 
 ### $DDRL Fractions of an iconic research lab
 Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and on the direction and implementation of the research.
 
 
-### 0XDDRL MISSION AND PURPOSE
-0XDDRL promotes innovation in the design and development of new cities from scratch. 
 
-The purpose of DDRL 
-* is to enable societies to accelerate the rate of urbanization and create economic and social reform
-* The purpose of the DDRL Metaverse is to solve the problems associated with the development of Private Cities: investors funding, citizens participation in value created and governance.
 
 
