@@ -8,19 +8,29 @@ A cyber urban system specifically designed to enable a collective of people to j
 #### City Fractions: New classes of assets
 Fractional ownership in a city, is a new paradigm that is creating new types of asset classes in the physical, and cyber space. The range of the term "assets" include public utility cooperatives, public goods, the public space and natural resources, and city's revenues. These multi dimensional assets are used for the collective governance, management and development of the city.
 #### The vision for cyber urban worlds
+The cyber-urban city uses the crypto-web3 space in a native way. 
 
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for an urban development lab to enable visions and naratives for cyber-urban realities to emerge and to coordinate the integration of crypto-web3 technologies into these models by bringing together talent from the various disciplines that are relevant to the space and communities.<br> The second pillar of the lab is to take these scientific breakthroughs into production and enable communities to build the new metropolisses, and create territorial and societal transformations.<br><br>
+There is an opportunity for an urban development lab to enable visions and naratives for cyber-urban realities to emerge and to coordinate the integration of crypto-web3 technologies that inform novel models of cities by bringing together the best talent and communities from the various disciplines that are relevant to the space and .<br> 
+-establish the domain of cyber-urban city
+The second pillar of the lab is to take these scientific breakthroughs into production and enable communities to build the new metropolisses, and create territorial and societal transformations.<br><br>
 #### WEBUILD X 0XDDRL
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
-The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of talent, teams and communities, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
+The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of people, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
 
-### 0XDDRL TOKEN ECONOMY 
-OXDDRL is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development. 
-We create the 0XDDRL crypto economy to enable communities to participate. 
+## TOKEN ECONOMY 
+The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development<br><br>
+A crypto economy enable participants to engage and raise their voice in a documented manner. The token is a membership subscription. It is also used as a vote. We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
+Tokens are the primary source of funding for the lab. 
 
-### $DDRL Fractions of an iconic research lab
-Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and on the direction and implementation of the research.
+#### $DDRL Fractions of an iconic research lab
+Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and surface the signal on the direction and implementation of the research. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
+
+#### $DDRL tokens are redeemable. 
+Tokens can be used to interact with future services such as the acquisition of a virtual land plot  at a desirable address or  a participation certificate.
+
+## Contracts
+
 
 
 
