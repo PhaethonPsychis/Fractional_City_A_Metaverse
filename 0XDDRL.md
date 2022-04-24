@@ -1,4 +1,5 @@
-## CRYPTO-WEB3 URBANISM RESEARCH: COLLECTIVE OWNERSHIP AND DECENTRALIZED PROGRAMMABLE GOVERNANCE
+## CRYPTO-WEB3 URBANISM RESEARCH: 
+### COLLECTIVE OWNERSHIP AND DECENTRALIZED PROGRAMMABLE GOVERNANCE
 Blockchain, web3, and internet, have unlocked the field of private urban developments for innovation and disruption. This group of technologies, unlocks our potential to design new models of cities and develop the new regional metropolis that can harness the transformational power of urbanization and become a powerhouse for growth, innovation and justice.
 
 Innovation in urbanism start with the introduction of a native crypto-web3 virtual city that embeds city systems such as legal, regulatory framework, and urban governance, into web3 application-protocols. This innovation, still very early in its evolution, will enable collective ownership and decentralized programmable governance of our urban environment. The cyber world serves as the basis for the development of new forms of urbanism arising from the interaction of the virtual world with the physical urban environment.<br><br>
