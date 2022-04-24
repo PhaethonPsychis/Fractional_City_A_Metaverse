@@ -18,10 +18,10 @@ The second pillar of the lab is to take these scientific breakthroughs into prod
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
 The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of people, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
 
-## TOKEN ECONOMY 
+## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development<br><br>
 A crypto economy enable participants to engage and raise their voice in a documented manner. The token is a membership subscription. It is also used as a vote. We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
-Tokens are the primary source of funding for the lab. 
+Tokens are the primary source of funding for the lab. We have setup a smart contract vending machine to sell the tokens at a fixed price. 
 
 #### $DDRL Fractions of an iconic research lab
 Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and surface the signal on the direction and implementation of the research. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
