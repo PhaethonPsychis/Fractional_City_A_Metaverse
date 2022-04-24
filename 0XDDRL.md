@@ -1,15 +1,15 @@
-## AUTONOMOUS CYBER URBAN CITIES RESEARCH
-Blockchain, web3, and internet, have unlocked the field of private urban developments for innovation and disruption. This group of technologies, unlocks our potential to design new models of cities and develop new private metropolises at a regional level that can harness the transformational power of urbanization.
+## CRYPTO-WEB3 URBANISM RESEARCH: COLLECTIVE OWNERSHIP AND DECENTRALIZED PROGRAMMABLE GOVERNANCE
+Blockchain, web3, and internet, have unlocked the field of private urban developments for innovation and disruption. This group of technologies, unlocks our potential to design new models of cities and develop the new regional metropolis that can harness the transformational power of urbanization and become a powerhouse for growth, innovation and justice.
 
-Innovation in urbanism starts with the introduction of a native crypto-web3 virtual city that embeds city systems such as legal, regulatory framework, and urban governance, into web3 application-protocols. This innovation, still very early in its evolution, will enable collective ownership and decentralized programmable governance of our urban environment. The cyber world serves as the basis for the development of new forms of urbanism arising from the interaction of the virtual world with the physical urban environment.<br><br>
-Crypto-web3 urbanism it’s a space that we’ve only just begun to explore. There are already great challenges that are fundamental to how this socio-technical urbanism movement will evolve. These challenges include hard questions about our vision for the city  and the cyber urban living. To address. these challenges we need to develop a new mental models of the cyber-urban realities.<br><br> There are also fundamental challenges on how the protocols should be structured to help citizens coordinate and how to identify ways to integrate a complex system of blockchain networks into the design and production of our architectural and urban [governance] space.<br><br>
-Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The vision we are working to build contains the following conceptual models:<br><br>
-#### Joint development and collective ownership
+Innovation in urbanism start with the introduction of a native crypto-web3 virtual city that embeds city systems such as legal, regulatory framework, and urban governance, into web3 application-protocols. This innovation, still very early in its evolution, will enable collective ownership and decentralized programmable governance of our urban environment. The cyber world serves as the basis for the development of new forms of urbanism arising from the interaction of the virtual world with the physical urban environment.<br><br>
+Crypto-web3 urbanism it’s a space that we’ve only just begun to explore. There are already great challenges that are fundamental to how this socio-technical urbanism movement will evolve. These challenges include hard questions about our vision for the city  and the cyber urban living. To address these challenges we need to develop new mental models of the cyber-urban realities. There are also fundamental challenges on how the protocols should be structured to help citizens coordinate and how to identify ways to integrate a complex system of blockchain networks into the design and production of our architectural and urban [governance] space.<br><br>
+Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The crypto-web3 urbanism is the evolution to the cyber urban regional metropolis. This is the vision we are working to build and contains the following conceptual models:<br><br>
+#### Collective urban development 
 A cyber urban system specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.
-#### City Fractions: New classes of assets
+#### Collective ownership: New classes of assets
 Fractional ownership in a city, is a new paradigm that is creating new types of asset classes in the physical, and cyber space. The range of the term "assets" include public utility cooperatives, public goods, the public space and natural resources, and city's revenues. These multi dimensional assets are used for the collective governance, management and development of the city.
-#### The vision for cyber urban worlds
-The cyber-urban city uses the crypto-web3 space in a native way. 
+#### The vision for cyber urban worlds: Programmable governance
+The cyber-urban city is a complex system of native crypto-web3 protocols . In its final form this is a-metaverse that becomes the interface to our physical urban and architectural environments. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.  
 
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
 There is an opportunity for an urban development research lab to enable visions and naratives for cyber-urban realities to emerge and to coordinate the integration of crypto-web3 technologies into the design of novel models of cities by bringing together the best talent and communities from the various disciplines that are relevant to the space and .<br> 
@@ -36,6 +36,9 @@ Fractions unlock the value of the network. The $DDRL token gives people the powe
 Tokens can be used to interact with future services such as the acquisition of a virtual land plot  at a desirable address or  a participation certificate.
 
 ## Contracts
+
+
+## Pipeline
 
 
 
