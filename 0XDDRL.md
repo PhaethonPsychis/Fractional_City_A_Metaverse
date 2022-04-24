@@ -1,7 +1,7 @@
 ## AUTONOMOUS CYBER URBAN CITIES RESEARCH
 Blockchain, web3, and internet, have unlocked the field of private urban developments for innovation and disruption. This group of technologies, unlocks our potential to design new models of cities and develop new private metropolises at a regional level that can harness the transformational power of urbanization.
 
-Building a new regional metropolis with the cyber urban space fully embedded in the design, production and governance of our cyber-physical environment uncovers new research challenges.
+We can start exploring innovation in urbanism with the introduction of a native crypto-web3 virtual city that embeds city systems such as legal, regulatory framework, and urban governance and converts them into a web3 application or protocol. This innovation, still very early in its evolution, will enable collective ownership and decentralized programmable governance of our urban environment. The cyber world serves as the basis for the development of new forms of urbanism arising from the interaction of the virtual world with the physical urban environment.<br><br>
 
 These challenges include hard questions about the vision of the city and new mental models of the cyber-urban realities.<br><br> There are also fundamental challenges on how the protocols should be structured to help citizens coordinate and how to identify ways to integrate a complex system of blockchain networks into the design and production of our architectural and urban [governance] space.<br><br>
 Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The vision we are working to build contains the following conceptual models:<br><br>
@@ -13,7 +13,7 @@ Fractional ownership in a city, is a new paradigm that is creating new types of 
 The cyber-urban city uses the crypto-web3 space in a native way. 
 
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for an urban development lab to enable visions and naratives for cyber-urban realities to emerge and to coordinate the integration of crypto-web3 technologies that inform novel models of cities by bringing together the best talent and communities from the various disciplines that are relevant to the space and .<br> 
+There is an opportunity for an urban development research lab to enable visions and naratives for cyber-urban realities to emerge and to coordinate the integration of crypto-web3 technologies into the design of novel models of cities by bringing together the best talent and communities from the various disciplines that are relevant to the space and .<br> 
 -establish the domain of cyber-urban city
 The second pillar of the lab is to take these scientific breakthroughs into production and enable communities to build the new metropolisses, and create territorial and societal transformations.<br><br>
 #### WEBUILD X 0XDDRL
@@ -22,7 +22,12 @@ The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized netw
 
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development<br><br>
-A crypto economy enable participants to engage and raise their voice in a documented manner. The token is a membership subscription. It is also used as a vote. We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
+A crypto economy enable participants to engage and raise their voice in a documented manner. The token is a membership subscription that is also used as a vote. 
+
+#### Incentives system
+The token allows us to create an incentives system. We want to provide the community with the means to coordinate work and allow participants to collaborate with each other to make decisions about a project. We want to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute.
+We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
+
 Tokens are the primary source of funding for the lab. We have setup a smart contract vending machine to sell the tokens at a fixed price. 
 
 #### $DDRL Fractions of an iconic research lab
