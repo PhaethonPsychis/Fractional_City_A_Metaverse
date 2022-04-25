@@ -21,8 +21,8 @@ The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized netw
 
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development<br><br>
+#### Why a token?
 A crypto economy enable participants to engage and raise their voice in a documented manner. The token is a membership subscription that is also used as a vote. 
-
 #### Incentives system
 The token allows us to create an incentives system. We want to provide the community with the means to coordinate work and allow participants to collaborate with each other to make decisions about a project. We want to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute.
 We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
@@ -44,6 +44,7 @@ Tokens can be used to interact with future services such as the acquisition of a
 ### My Notes
 Metaverse is not VR
 # 🛸 A Metaverse for collective ownership of cities, and decentralized, programmable governance!
+
 Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
 🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly contribute to the development of a new city from scratch.<br>
 
@@ -55,6 +56,19 @@ By introducing a Metaverse we enable communities and local governance to take es
 #### Use the Metaverse to create an economic and social reform blueprint <br>
 Autonomous Cities with the use of Cyber-Urban Environments are a critical response to the failures of centrally-planned government policies.
 
+####⚡️ The Metaverse is the interface to create new cities!
+This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
+Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
+
+This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment. <br><br>
+
+### 💎 A new era for cyber-urban life. The Metaverse is the interface to experience our urban environments!
+In its final form this metaverse becomes the interface to our physical urban and architectural environments, populated by avatar representations of real people that collectively own the cyber-urban space.<br><br>
+The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
+
+
+###  What kind of technology is the metaverse? Is not VR
+The Cyber Urban Metaverse— is a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— <br><br>
 
 ### OUR PIPELINE 
 
@@ -73,20 +87,5 @@ $DDRL is an Ethereum token that gives holders governance rights in the Decentral
 $DDRL tokens create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br>
 
 🏗 $DDRL tokens are redeemable. You may exchange them to buy virtual land at a desirable address or a meta-domain name or use them to redeem future services, such as a participation certificate.<br>
-
-## ❓ FAQ
-### ⚡️ The Metaverse is the interface to create new cities!
-This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
-Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
-
-This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment. <br><br>
-
-### 💎 A new era for cyber-urban life. The Metaverse is the interface to experience our urban environments!
-In its final form this metaverse becomes the interface to our physical urban and architectural environments, populated by avatar representations of real people that collectively own the cyber-urban space.<br><br>
-The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
-
-
-###  What kind of technology is the metaverse?
-The Cyber Urban Metaverse—a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— increases our capacity to fund and develop entire new cities.<br><br>
 
 This is a living document and we will update it as the community grows and the project evolves.<br>
