@@ -13,8 +13,10 @@ Fractional ownership in a city, is a new paradigm that is creating new types of 
 The cyber-urban city is a complex system of native crypto-web3 protocols . In its final form this is a-metaverse that becomes the interface to our physical urban and architectural environments. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.  
 
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for an urban development research lab to help form the vision of the cyber urban regional metropolis and help integrate urbanism with crypto-web3 technologies by bringing together talent from many different disciplines and communities with shared interests.<br>
-The second stage of the lab is to take these scientific breakthroughs into production and enable communities to build the first cyber-urban regional metropolis, and create territorial and societal transformations.<br><br>
+There is an opportunity for a research lab to help with the design and development of crypto cities. 
+* The first objective of the lab is to develop novel city models around crypto protocols and to help integrate blockchain technologies into the production of the urban environment.
+* The second objective of the lab is to bring together the domain of crypto with the domain of urbanism and create a new scientific unified field.
+* The third objective is to take scientific breakthroughs into production and enable communities to build the first crypto regional metropolis and create territorial and societal transformations..<br><br>
 #### WEBUILD X 0XDDRL
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
 The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of people, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
