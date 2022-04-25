@@ -1,5 +1,5 @@
 ## CRYPTO-WEB3 URBANISM RESEARCH
-### THE CYBER URBAN REGIONAL METROPOLIS: COLLECTIVE OWNERSHIP AND DECENTRALIZED PROGRAMMABLE GOVERNANCE
+### THE CYBER URBAN REGIONAL METROPOLIS: COLLECTIVE OWNERSHIP
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.
 The integration of the crypto-web3 domain into the field of architecture and urbanism unlocks a completely new and innovative domain of projects and research, pushing the boundaries of these disciplines in new directions.
 
