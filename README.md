@@ -11,7 +11,7 @@ Building cities is the single most important act of production within society an
   
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
 There is an opportunity for a research lab to help with the design and development of crypto cities.
-* The first objective of the lab is to develop novel city models around crypto protocols and to help integrate blockchain technologies into the production of the urban environment.
+* The first objective of the lab is to develop novel city models around crypto protocols and to help integrate blockchain technologies and applications into the production of the urban environment.
 * The second objective of the lab is to bring together the domain of crypto with the domain of urbanism and create a new scientific unified field.
 * The third objective is to take scientific breakthroughs into production and enable communities to build the first crypto regional metropolis and create territorial and societal transformations..<br><br>
 #### WEBUILD X 0XDDRL
@@ -20,8 +20,8 @@ The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized netw
 
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development<br><br>
-#### Why a token?
-A crypto economy enable participants to engage and raise their voice in a documented manner. The token is a membership subscription that is also used as a vote. 
+#### Why issue a token?
+The token enable participants to engage and raise their voice in a documented manner. The token is a membership subscription that is also used as a vote. 
 #### Incentives system
 The token allows us to create an incentives system. We want to provide the community with the means to coordinate work and allow participants to collaborate with each other to make decisions about a project. We want to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute.
 We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
