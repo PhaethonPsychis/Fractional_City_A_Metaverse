@@ -10,31 +10,33 @@ We are only just beginning to explore the potential of crypto-web3 urbanism. The
 Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new crypto-web3 urbanism field unlocks the potential of societies to accelerate innovation. <br><br>
   
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for a research lab to help with the design and development of crypto cities.
+There is an opportunity for a research lab to create a program for applied research in Crypto-Urbanism, and help develop the new models of crypto cities into real-world regional development projects.
 * The first objective of the lab is to enable the design of novel city models around crypto protocols and to help integrate blockchain technologies and applications into the production of the urban environment.
-* The second objective of the lab is to bring together the domain of crypto with the domain of urbanism and create a new scientific unified field.
+* The second objective of the lab is to help bring together the domain of crypto with the domain of urbanism and establish Crypto-Urbanism as a new scientific unified field.
 * The third objective is to take scientific breakthroughs into production and enable communities to build the first crypto regional metropolis and create territorial and societal transformations..<br><br>
 #### WEBUILD X 0XDDRL
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
 The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of people, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
 
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
-The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br><br>
+The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development. <br><br>
 #### Tokens system
 $DDRL is our foundational token that allow us to create a coordination and participation system and unlock the value of the network. Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the tokens system is to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
 #### A voting mechanism to surface the signal
 The token enables users to participate in the decision making process and state their preferences . Holders use the token to vote on the direction and implementation of the project and build the ecosystem. $DDRL distribute value and power.The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
 #### A Lab membership 
 The token is a membership subscription. Buying the token is the primary source of funding for the lab. We have set up a smart contract vending machine to sell the tokens at a fixed price.
-#### Incentives system
+#### Incentives and reward system
 TBD
 #### $DDRL tokens are redeemable. 
 Tokens can be used to interact with future services such as the acquisition of a virtual land plot  at a desirable address or  a participation certificate.
 
-## Contracts
+## CONTRACTS
+The $DDRL token is live! The official contract addressses are: 
+* $DDRL TOKEN 0x...
+* vENDING MACHINE 0X...
 
-
-## Pipeline
+## PIPELINE
 
 
 ## Vision, narrative and primitives for the cyber-urban regional metropolis
