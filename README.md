@@ -11,7 +11,7 @@ Building cities is the single most important act of production within society an
   
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
 There is an opportunity for a research lab to help with the design and development of crypto cities.
-* The first objective of the lab is to develop novel city models around crypto protocols and to help integrate blockchain technologies and applications into the production of the urban environment.
+* The first objective of the lab is to enable the design of novel city models around crypto protocols and to help integrate blockchain technologies and applications into the production of the urban environment.
 * The second objective of the lab is to bring together the domain of crypto with the domain of urbanism and create a new scientific unified field.
 * The third objective is to take scientific breakthroughs into production and enable communities to build the first crypto regional metropolis and create territorial and societal transformations..<br><br>
 #### WEBUILD X 0XDDRL
