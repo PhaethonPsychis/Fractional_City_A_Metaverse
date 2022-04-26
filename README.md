@@ -17,7 +17,7 @@ There is an opportunity for a research lab to help create a program for applied 
 
 #### WEBUILD X 0XDDRL
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
-The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of people, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
+The WEBUILD X 0XDDRL model is simple and powerful solution for the development of new private cities from scratch, backed by fractional ownership in the city's revenue streams. The model enables a collective of people to jointly contribute to the development of a city, WEBUILD offers a better model for how societies should develop cities, and how the value created is distributed back to the citizens.
 
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br>
@@ -47,8 +47,6 @@ A Virtual Land. Get the most desirable address at an iconic location
 
 ## VISION, NARRATIVE, APPLICATIONS FOR THE CRYPTO CITY
 
-#### Collective urban development 
-A system of protocols and interface, a metaverse, specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.
 #### Collective ownership: New classes of assets
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical and cyberspace. It is a new way of managing and developing the city's assets that includes public goods, utilities, and natural resources. This type of ownership allows for collective governance and management of these assets for the benefit of the city as a whole.
 #### A metaverse for cyber urban avatars and programmable governance
