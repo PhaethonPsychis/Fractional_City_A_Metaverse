@@ -21,17 +21,13 @@ The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized netw
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br><br>
 #### Tokens system
-$DDRL is our foundational token to establish a coordination and participation system. Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the tokens system is to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
+$DDRL is our foundational token that allow us to create a coordination and participation system and unlock the value of the network. Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the tokens system is to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
 #### A voting mechanism to surface the signal
-The token enable users to participate and state their preferneces. Holders use the token toto vote on the direction and implementation of the project. Hence $DDRL is a tool for distributing the value and power over the development of the lab and the ecosystem to the community. 
+The token enables users to participate in the decision making process and state their preferences . Holders use the token to vote on the direction and implementation of the project and build the ecosystem. $DDRL distribute value and power.The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
 #### A Lab membership 
-The token is a membership subscription. Buying the token is the primary source of funding for the lab. We have setup a smart contract vending machine to sell the tokens at a fixed price. 
+The token is a membership subscription. Buying the token is the primary source of funding for the lab. We have set up a smart contract vending machine to sell the tokens at a fixed price.
 #### Incentives system
-The token allows us to create and deploy incentives system. 
-
-#### $DDRL Fractions of an iconic research lab
-Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and surface the signal on the direction and implementation of the research. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
-
+TBD
 #### $DDRL tokens are redeemable. 
 Tokens can be used to interact with future services such as the acquisition of a virtual land plot  at a desirable address or  a participation certificate.
 
