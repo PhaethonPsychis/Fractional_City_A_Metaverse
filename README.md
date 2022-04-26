@@ -19,14 +19,15 @@ Building private cities has traditionally been a centralized industry with a lot
 The WEBUILD X 0XDDRL model is simple and powerful solution: A decentralized network of people, that shape a vision, pool funds together and partner with a nation<br> WEBUILD offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens.
 
 ## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
-The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development<br><br>
-#### Why issue a token?
-The token enable participants to engage and raise their voice in a documented manner. The token is a membership subscription that is also used as a vote. 
+The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br><br>
+#### Tokens system
+$DDRL is our foundational token to establish a coordination and participation system. Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the tokens system is to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
+#### A voting mechanism to surface the signal
+The token enable users to participate and state their preferneces. Holders use the token toto vote on the direction and implementation of the project. Hence $DDRL is a tool for distributing the value and power over the development of the lab and the ecosystem to the community. 
+#### A Lab membership 
+The token is a membership subscription. Buying the token is the primary source of funding for the lab. We have setup a smart contract vending machine to sell the tokens at a fixed price. 
 #### Incentives system
-The token allows us to create an incentives system. We want to provide the community with the means to coordinate work and allow participants to collaborate with each other to make decisions about a project. We want to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute.
-We will also use tokens to create a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
-
-Tokens are the primary source of funding for the lab. We have setup a smart contract vending machine to sell the tokens at a fixed price. 
+The token allows us to create and deploy incentives system. 
 
 #### $DDRL Fractions of an iconic research lab
 Fractions unlock the value of the network. The $DDRL token gives people the power to vote on projects they like and surface the signal on the direction and implementation of the research. The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
