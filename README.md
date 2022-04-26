@@ -10,7 +10,7 @@ We are only just beginning to explore the potential of crypto-web3 urbanism. The
 Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new crypto-web3 urbanism field unlocks the potential of societies to accelerate innovation. <br><br>
   
 ## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for a research lab to create a program for applied research in Crypto-Urbanism, and help develop the new models of crypto cities into real-world regional development projects.
+There is an opportunity for a research lab to help create a program for applied research in Crypto-Urbanism, and implement the new models of crypto cities into real-world regional development projects.
 * The first objective of the lab is to enable the design of novel city models around crypto protocols and to help integrate blockchain technologies and applications into the production of the urban environment.
 * The second objective of the lab is to help bring together the domain of crypto with the domain of urbanism and establish Crypto-Urbanism as a new scientific unified field.
 * The third objective is to take scientific breakthroughs into production and enable communities to build the first crypto regional metropolis and create territorial and societal transformations..<br><br>
