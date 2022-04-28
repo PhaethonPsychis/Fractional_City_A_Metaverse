@@ -14,24 +14,24 @@ The lab is an experiment aiming to push the boundaries in the creation of a self
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
 A research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to our lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
-This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research.<br><br>
+This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.<br><br>
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
 
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The socio-spatial framework of research is comprised of three pillars
-* Vision
-* Models
-* Development
+* Vision  
+* Models: Collective Ownership, Governance and Risk Management
+* Deployment and Development
 
-#### WEBUILD
+#### WEBUILD: THE DE
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
 The WEBUILD X 0XDDRL model is simple and powerful solution for the development of new private cities from scratch, backed by fractional ownership in the city's revenue streams. The model enables a collective of people to jointly contribute to the development of a city, WEBUILD offers a better model for how societies should develop cities, and how the value created is distributed back to the citizens.
 
 ## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
 The $DDRL token is live! The official contract address is: 
-* $DDRL VENDING MACHINE: 0x16a85E619709769dC275cF9284F8C835A8EbeC78
-*This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,0005
+* $DDRL VENDING MACHINE: [0x16a85E619709769dC275cF9284F8C835A8EbeC78](https://etherscan.io/address/0x16a85e619709769dc275cf9284f8c835a8ebec78#writeContract)
+*This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,0005<br> The exchange rate is $DDRL 2000 Pper ETH
 
-* $DDRL TOKEN TREASURY: [0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4] ()
+* $DDRL TOKEN TREASURY: [0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4] (https://etherscan.io/address/0x604183b3ce47ff4cc627ced93fa75acb42a3a5a4)
 
 * CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29](https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
 
