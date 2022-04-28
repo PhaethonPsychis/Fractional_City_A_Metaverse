@@ -28,8 +28,8 @@ The WEBUILD X 0XDDRL model is simple and powerful solution for the development o
 
 ## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
 The $DDRL token is live! The official contract address is: 
-* $DDRL VENDING MACHINE: [0x16a85E619709769dC275cF9284F8C835A8EbeC78](https://etherscan.io/address/0x16a85e619709769dc275cf9284f8c835a8ebec78#writeContract)
-*This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,0005<br> The exchange rate is $DDRL 2000 Pper ETH
+* $DDRL VENDING MACHINE: [0x16a85E619709769dC275cF9284F8C835A8EbeC78](https://etherscan.io/address/0x16a85e619709769dc275cf9284f8c835a8ebec78#writeContract)<br>
+*This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,0005<br> The exchange rate is $DDRL 2000 per ETH
 
 * $DDRL TOKEN TREASURY: [0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4] (https://etherscan.io/address/0x604183b3ce47ff4cc627ced93fa75acb42a3a5a4)
 
