@@ -12,7 +12,7 @@ There is an opportunity for a new [Decentralized] industry to take into producti
 The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br>
   
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
-### CRYPTO-WEB3 URBANISM WILL SHAPE THE FUTUE OF CITIES
+### CRYPTO-WEB3 URBANISM WILL SHAPE THE FUTURE OF CITIES
 A research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to our lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
 This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.<br><br>
