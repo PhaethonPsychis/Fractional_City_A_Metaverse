@@ -33,7 +33,7 @@ The $DDRL token is live! The official contract address is:
 
 * $DDRL TOKEN TREASURY: [0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4] ()
 
-* CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29] (https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
+* CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29](https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
 
 #### Tokens system
 $DDRL is our foundational token that allow us to create a coordination and participation system and unlock the value of the network. Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the tokens system is to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
