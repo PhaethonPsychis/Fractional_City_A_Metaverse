@@ -19,7 +19,7 @@ The lab operates as an open-source research hub with permissionless access for o
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The socio-spatial framework of research and development is comprised of three pillars
 * Vision
 * Models
-* Collective ownership. 
+* Development
 
 #### WEBUILD X 0XDDRL
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
