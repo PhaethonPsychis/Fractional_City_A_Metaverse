@@ -5,15 +5,21 @@ The integration of the crypto-web3 domain into the field of architecture and urb
 
 The new crypto-urbanism domain make it possible to build novel models for cities around complex crypto protocol systems that in turn will affect the evolution of the city in a positive feedback loop. This is a novel design process that will allow us to invent and materialize novel forms for regional metropolisses based on collective ownership and decentralized cooperative networks. For the first time we can harness the transformational power of urbanization and scale up building private cities to become a powerhouse for growth, innovation and justice.
 
-In this way, the domain of crypto—[architecture and]—urbanism become a platform for public and private interactions, with a new collective consciousness and a new form of decentralized democracy.<br><br> 
+In this way, the domain of crypto—urbanism-[and architecture] become a platform for public and private interactions, with a new collective consciousness and a new form of decentralized democracy.<br><br> 
 We are only just beginning to explore the potential of crypto-web3 urbanism. There are already many challenges that need to be addressed in order to make this socio-technical urbanism movement successful. These challenges include developing a vision for the city of the future, translating a political and social philosophy into a system of contracts, and integrating a complex system of blockchain networks into the design and production of our architectural and urban space.<br><br>
-Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new crypto-web3 urbanism field unlocks the potential of societies to accelerate innovation. <br><br>
+
+There is an opportunity for a new [Decentralized] industry to take into production the Autonomous Crypto City, scale up the production of urban developments and create a new era for cities. Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new  crypto city model unlocks the potential of communities to build partnerships with nation governments for the development of cities from scratch. <br><br>
   
-## THE ZEROX DECENTRALIZED DESIGN RESEARCH LAB
-There is an opportunity for a research lab to help create a program for applied research and in Crypto-Urbanism, and implement the new models of crypto cities into real-world regional development projects.
-* The first objective of the lab is to enable the design of novel city models around crypto protocols and to help integrate blockchain technologies and applications into the production of the urban environment.
-* The second objective of the lab is to help bring together the domain of crypto with the domain of urbanism and establish Crypto-Urbanism as a new scientific unified field.
-* The third objective is to take scientific breakthroughs into production. The lab can help bring communities and public sector together to build new crypto regional metropolisses and create territorial and societal transformations.<br>
+## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
+A research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
+Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to our lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
+This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research.<br><br>
+The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
+
+The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The socio-spatial framework of research and development is comprised of three pillars
+* Vision
+* Models
+* Collective ownership. 
 
 #### WEBUILD X 0XDDRL
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
