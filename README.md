@@ -9,6 +9,7 @@ In this way, the domain of crypto—urbanism-[and architecture] become a platfor
 We are only just beginning to explore the potential of crypto-web3 urbanism. There are already many challenges that need to be addressed in order to make this socio-technical urbanism movement successful. These challenges include developing a vision for the city of the future, translating a political and social philosophy into a system of contracts, and integrating a complex system of blockchain networks into the design and production of our architectural and urban space.<br><br>
 
 There is an opportunity for a new [Decentralized] industry to take into production the Autonomous Crypto City, scale up the production of urban developments and create a new era for cities. Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new  crypto city model unlocks the potential of communities to build partnerships with nation governments for the development of cities from scratch. <br><br>
+The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br>
   
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
 A research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
@@ -16,32 +17,38 @@ Decentralised participation is at the heart of this project in which self-organi
 This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research.<br><br>
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
 
-The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The socio-spatial framework of research and development is comprised of three pillars
+The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The socio-spatial framework of research is comprised of three pillars
 * Vision
 * Models
 * Development
 
-#### WEBUILD X 0XDDRL
+#### WEBUILD
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Most projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
 The WEBUILD X 0XDDRL model is simple and powerful solution for the development of new private cities from scratch, backed by fractional ownership in the city's revenue streams. The model enables a collective of people to jointly contribute to the development of a city, WEBUILD offers a better model for how societies should develop cities, and how the value created is distributed back to the citizens.
 
-## TOKEN ECONOMY FOR DECENTRALISED COORDINATION
-The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br>
+## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
+The $DDRL token is live! The official contract address is: 
+* $DDRL VENDING MACHINE: 0x16a85E619709769dC275cF9284F8C835A8EbeC78
+*This is a smart contract vending machine to sell the tokens at fixed price of ETH 0,0005
+
+* $DDRL TOKEN TREASURY: [0x604183b3CE47FF4cc627cEd93fa75Acb42A3a5A4] ()
+
+* CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29] (https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
+
 #### Tokens system
 $DDRL is our foundational token that allow us to create a coordination and participation system and unlock the value of the network. Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the tokens system is to enable the organic formation of self-organized permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
 #### A voting mechanism to surface the signal
 The token enables users to participate in the decision making process and state their preferences . Holders use the token to vote on the direction and implementation of the project and build the ecosystem. $DDRL distribute value and power.The more DDRL tokens a user has locked in their voting contract, the greater the decision-making power.
-#### A Lab membership 
+#### A membership 
 The token is a membership subscription. Buying the token is the primary source of funding for the lab. We have set up a smart contract vending machine to sell the tokens at a fixed price.
 #### Incentives and reward system
 TBD
 #### $DDRL tokens are redeemable. 
 Tokens can be used to interact with future services such as the acquisition of a virtual land plot  at a desirable address or exchanged for a participation certificate.
 
+
 ## CONTRACTS
-The $DDRL token is live! The official contract addressses are: 
-* $DDRL TOKEN 0x...
-* VENDING MACHINE 0X...
+
 
 ## ROADMAP
 International competition event. Details TBD
