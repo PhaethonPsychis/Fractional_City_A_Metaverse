@@ -5,30 +5,29 @@ The integration of the crypto-web3 domain into the field of architecture and urb
 
 The new crypto-urbanism domain make it possible to build novel models for cities around complex crypto protocol systems that in turn will affect the evolution of the city in a positive feedback loop. This is a novel design process that will allow us to invent and materialize novel forms for regional metropolisses based on collective ownership and decentralized cooperative networks. For the first time we can harness the transformational power of urbanization and scale up building private cities to become a powerhouse for growth, innovation and justice.
 
-In this way, the domain of crypto—urbanism-[and architecture] become a platform for public and private interactions, with a new collective consciousness and a new form of decentralized democracy.<br><br> 
-We are only just beginning to explore the potential of crypto-web3 urbanism. There are already many challenges that need to be addressed in order to make this socio-technical urbanism movement successful. These challenges include developing a vision for the city of the future, translating a political and social philosophy into a system of contracts, and integrating a complex system of blockchain networks into the design and production of our architectural and urban space.<br><br>
+In this way, the domain of crypto-open internet—urbanism-[and architecture] become a platform for public and private interactions, with a new collective consciousness and a new form of decentralized democracy.<br><br> 
+We are only just beginning to explore the potential of crypto[graphy], open-internet and urbanism. There are already many challenges that need to be addressed in order to make this socio-technical urbanism movement successful. These challenges include developing a collective vision for the city of the future, translating political and social philosophy into an ecosystem of internet protocols, among other issues<br><br>
 
-There is an opportunity for a new [Decentralized] industry to take into production the Autonomous Crypto City, scale up the production of urban developments and create a new era for cities. Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new  crypto city model unlocks the potential of communities to build partnerships with nation governments for the development of cities from scratch. <br><br>
-The lab is an experiment aiming to push the boundaries in the creation of a self-organising ecosystem for education, research and development.<br>
+There is an opportunity for a community-collective to champion the production of the first collectively-owned Autonomous City, and create a new era for cities. Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new crypto-urbanism [protocol and decentralized application platform] uses public-community partnerships to unlock the potential of communities to fund and finance new cities from scratch. <br><br>
   
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
 ### CRYPTO-WEB3 URBANISM WILL SHAPE THE FUTURE OF CITIES
-A research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
-Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to our lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
+We are introducing a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
+Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
 This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.<br><br>
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
 
-The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The socio-spatial framework of research is comprised of three pillars
+The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
 #### THE CITIES OF THE FUTURE
 * Vision  
 * Models and Protocols  
 * Governance, Collectives, and Risk Management
 
-#### WEBUILD: URBAN DEVELOPMENT
-Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
-The WEBUILD X 0XDDRL model is simple and powerful solution for the development of new private cities from scratch, backed by fractional ownership in the city's revenue streams. The model enables a collective of people to jointly contribute to the development of a city, WEBUILD offers a better model for how societies should develop cities, and how the value created is distributed back to the citizens.
+#### WEBUILD: COLLECTIVE DEVELOPMENT
+Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client" with citizens aas the consumers of the "product"<br><br>
+The WEBUILD flip this model on its head. WEBUILD enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. WEBUILD offers a powerful solution for societies to advance new private cities,  and how the value created is distributed back to the citizens.
 
-#### CRYPTO=URBANISM PROTOCOLS AND APPLICATION PLATFORM
+#### CRYPTO-URBANISM PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM
 
 ## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
 The $DDRL token is live! The official contract address is: 
