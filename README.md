@@ -28,7 +28,7 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client".<br><br>
 The WEBUILD X 0XDDRL model is simple and powerful solution for the development of new private cities from scratch, backed by fractional ownership in the city's revenue streams. The model enables a collective of people to jointly contribute to the development of a city, WEBUILD offers a better model for how societies should develop cities, and how the value created is distributed back to the citizens.
 
-#### CYBER URBAN CITIES PROTOCOLS AND APPLICATION PROGRAMMABLE PLATFORM
+#### CRYPTO=URBANISM PROTOCOLS AND APPLICATION PLATFORM
 
 ## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
 The $DDRL token is live! The official contract address is: 
