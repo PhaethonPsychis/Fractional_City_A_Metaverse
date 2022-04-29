@@ -14,7 +14,7 @@ There is an opportunity for a community-collective to champion the production of
 ### CRYPTO-WEB3 URBANISM WILL SHAPE THE FUTURE OF CITIES
 We are introducing a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape applied Cryptography and the domain of Urbanism as a framework to explore, invent and construct our collective future.<br><br>
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
-This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.<br><br>
+This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
 
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
