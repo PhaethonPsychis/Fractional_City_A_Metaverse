@@ -39,16 +39,23 @@ The $DDRL token is live! The official contract address is:
 
 * CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29](https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
 
-### NEW FEATURES INCLUDE
+
+### Token features include:
+#### Decentralised Integrated storytelling: 
+How $DDRL will enable a global community to link different stories together and collectively shape the visions of our collective futures. The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
+$DDRL will be the first project to decentralise the process of creating a vision for the future of our cities. Each $DDRL holder serves as part of the storytelling process enabling them to vote on key aspects of a vision, including storyline, characters, and art.  
+
+#### Exclusive Art and Behind-the-Scenes Access: 
+In addition to exclusive access to future NFT drops, $DDRL token holders that vote on the vision building process will receive exclusive art and behind-the-scenes content from their favourite creators. Details TBD
+
+
 $DDRL is our foundational token with a Circulation Supply 220,000,000 token. It is designed as participatory token to unlock the value of the network.
 The token enables users to participate in the decision making process and vote on the direction and implementation of the project 
 Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
-#### OUR COLLECTIVE FUTURE
+
 The token enables users to participate in the decision making process. Holders use the token to vote on the direction and implementation of the project and help build the ecosystem. $DDRL distribute value and power.The more DDRL tokens a user or their delegator has locked in their voting contract, the greater the decision-making power.
 #### Incentives and reward system
 TBD
-#### $DDRL tokens are redeemable. 
-Tokens can be used to interact with future services such as the acquisition of a virtual land plot  at a desirable address or exchanged for a participation certificate.
 
 
 ## CONTRACTS
