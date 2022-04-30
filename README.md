@@ -14,7 +14,7 @@ There is an opportunity for a community-collective to champion the production of
 note: the term "crypto" is a shortcut to "cryptographic blockchain technology" where "blockchain" is 
   
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
-### CRYPTO-WEB3 URBANISM WILL SHAPE THE FUTURE OF CITIES
+### URBANISM 3.0 WILL SHAPE THE FUTURE OF CITIES AND FORM THE METROPOLIS OF THE FUTURE
 We are introducing a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape the domain of Urbanism 3.0 as an area of study and a framework to explore, invent and construct our collective future.<br><br>
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
 This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.
