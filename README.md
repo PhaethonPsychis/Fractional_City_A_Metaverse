@@ -82,7 +82,8 @@ The general concept of an autonomous city is that of sharing ownership and gover
 The citizens are dividend-receiving shareholders, and collectively decide on how the city—the organization should allocate the use of its [funds] resources. 
 The memberships over the city are non-tradable and non-transferable shares. A person is issued a share when certain conditions are met such as participation in governance and residency. <br><br>
 
-The crypto urban commons. AC create a new and expanded domain of common resources, that contains:
+#### urban commons 3.0 
+AC create a new and expanded domain of common resources, that contains:
 * the urban environment, 
 * natural resources, and 
 * public services. 
