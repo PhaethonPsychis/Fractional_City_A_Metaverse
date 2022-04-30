@@ -78,30 +78,31 @@ An address system-domain names in a virtual city
 ## DECENTRALISED APPLICATIONS
 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
-The general concept of an autonomous city is that of sharing ownership and governance over common resources—in a specific geographic location and urban environment.
-The citizens are dividend-receiving shareholders, and collectively decide on how the city—the organization should allocate the use of its [funds] resources. 
-The memberships over the city are non-tradable and non-transferable shares. A person is issued a share when certain conditions are met such as participation in governance and residency. <br><br>
+The vision for cyber urban worlds: 
+Urbanism 3.0 introduces the domain of cyber urban commons 3.0 to program the creation, governance maintenance, and renewal of commonly shared resources in cyberspace, the urban environment, and the natural world. 
+Cyber urban commons 3.0 are public goods
 
-#### urban commons 3.0 
-AC creates a new and expanded domain of common resources, that contain:
-* the urban environment, 
-* natural resources,  
-* public services
-* cooperative businesses 
+Urbanism 3.0 provides the means [programmabeplatform] to organize any kind of a public good, as a cooperative on-blockchain 
+
+The cyber urban commons 3.0 are resources that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets.
+
+This is the Urbanism 3.0 version of a cooperative: think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the power station, rather than [insert] sold to individuals. or they can delegate these decisions to a group of experts
+
+Urbanism 3.0 offers a variety of models for community governance
+
+
 
 Common resources and any kind of organization public, private, or nonprofit are organized as crypto cooperatives on the "blockchains network" and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
 The urban commons are assets that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens." <br>
 The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
 
-#### Energy production cooperatives: A use case. 
-Citizens get to choose or they can delegate these decisions to a group of experts, about the means of energy production and bare the cost and benefits of their decisions.<br><br>
 
 #### Urban Governance is dynamic and programmable,
 offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
 Urban resources management. The management of assets in an autonomous city is done by a decentralized network of cooperatives. The cooperatives are responsible for managing all forms of risk. In a blockchain environment, this is happening real-time and is open source.
 
 #### Collective ownership: New classes of assets
-Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical and cyberspace. It is a new way of managing and developing the city's assets that includes public goods, utilities, and natural resources. This type of ownership allows for collective governance and management of these assets for the benefit of the city as a whole.
+Fractional ownership in public goods or a city is a new paradigm that is creating new types of asset classes [insert]in the physical and cyberspace. It is a new way of managing and developing the city's assets that includes public goods, utilities, and natural resources. This type of ownership allows for collective governance and management of these assets for the benefit of the city as a whole.
 ####  cyber-to-urban interactions. connected cyber-urban environments. Programmable Avatars and governance
 In its final form the cyber-urban city exposes a metaverse that becomes the interface to our physical urban and architectural environment. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.
 
