@@ -83,19 +83,23 @@ The citizens are dividend-receiving shareholders, and collectively decide on how
 The memberships over the city are non-tradable and non-transferable shares. A person is issued a share when certain conditions are met such as participation in governance and residency. <br><br>
 
 #### urban commons 3.0 
-AC create a new and expanded domain of common resources, that contains:
+AC creates a new and expanded domain of common resources, that contain:
 * the urban environment, 
-* natural resources, and 
-* public services. 
+* natural resources,  
+* public services
+* cooperative businesses 
 
-Urban commons are organized as crypto-cooperatives on the blockchains network and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
-The urban commons, common resources, are assets that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens." <br><br>
+Common resources and any kind of organization public, private, or nonprofit are organized as crypto cooperatives on the "blockchains network" and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
+The urban commons are assets that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens." <br>
+The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
 
-A use case: Energy production cooperatives. Citizens get to choose or they can delegate these decisions to a group of experts, about the means of energy production and bare the cost and benefits of their decisions.<br><br>
+#### Energy production cooperatives: A use case. 
+Citizens get to choose or they can delegate these decisions to a group of experts, about the means of energy production and bare the cost and benefits of their decisions.<br><br>
 
-Urban Governance is dynamic and programmable, offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
+#### Urban Governance is dynamic and programmable,
+offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
 Urban resources management. The management of assets in an autonomous city is done by a decentralized network of cooperatives. The cooperatives are responsible for managing all forms of risk. In a blockchain environment, this is happening real-time and is open source.
-The Autonomous city solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
+
 #### Collective ownership: New classes of assets
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical and cyberspace. It is a new way of managing and developing the city's assets that includes public goods, utilities, and natural resources. This type of ownership allows for collective governance and management of these assets for the benefit of the city as a whole.
 ####  cyber-to-urban interactions. connected cyber-urban environments. Programmable Avatars and governance
