@@ -1,4 +1,4 @@
-## URBANISM 3.0 — RESEARCH. 
+# URBANISM 3.0 — RESEARCH. 
 ### CYBER-URBAN COMMONS 3.0: THE AUTONOMOUS REGIONAL METROPOLIS
 ##### The purpose of Urbanism 3.0 is to create new forms of urbanism enabled by open source decentralised  applications and protocols that run as immutable code on a platform that provides strong guaranties about the future execution of the code.<br><br>
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.<br>
