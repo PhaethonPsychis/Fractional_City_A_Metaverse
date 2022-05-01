@@ -32,8 +32,8 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 In general there are two types of applications on top of Urbanism 3.0 platform. The first category is protocols providing communities with more powerful ways of  managing and entering into public-community partnerships for building Autonomous cities and creating Special Economic Zones on blockchain. The second category is core protocols for developing novel forms of urbanism and governance of the commons.
 ### COLLECTIVE DEVELOPMENT: WEBUILD
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client" with citizens aas the consumers of the "product"<br><br>
-The WEBUILD flip this model on its head. WEBUILD enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. WEBUILD offers a powerful solution for societies to advance new private cities,  and how the value created is distributed back to the citizens.
-By introducing a Urbanism 3.0 we enable communities and local governance to take essential next steps in starting very large scale urbanization developments.
+Urbanism 3.0 flip this model on its head. It enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. 
+By introducing a Urbanism 3.0 we enable communities and local governance to take essential next steps to advance new private cities.
 Urbanism 3.0 has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
