@@ -43,17 +43,17 @@ The cyber urban commons 3.0 are public goods [resources] that benefit humanity a
 
 
 #### This is the Urbanism 3.0 version of a public goods cooperative:<br> 
-think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the cooperative, rather than -insert-sold to individuals<br>
-Urbanism 3.0 offers a variety of models for community governance 
+think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the cooperative, rather than -insert-sold to individuals. Version of this model is the Bitcoin network and Ethereum 2.0  <br>
 
 
-
-Common resources and any kind of organization public, private, or nonprofit are organized as crypto cooperatives on the "blockchains network" and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
+#### City 3.0 is network an autonomous cooperatives 
+All types of Common resources, natural jabitats, public services, private, or nonprofit organizations are organized as crypto cooperatives on the "blockchains network" and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
 The urban commons are assets that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens." <br>
 The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
 
 
-#### Urban Governance is dynamic and programmable,
+#### Urban Governance is dynamic and programmable. Cyber-to-urban interactions
+Urbanism 3.0 offers a variety of models for community governance 
 offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
 Urban resources management. The management of assets in an autonomous city is done by a decentralized network of cooperatives. The cooperatives are responsible for managing all forms of risk. In a blockchain environment, this is happening real-time and is open source.
 
