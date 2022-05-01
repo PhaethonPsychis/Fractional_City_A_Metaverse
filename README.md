@@ -21,7 +21,7 @@ This is a new type of lab that is organized as a collective on blockchain and fu
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
 #### VISION
-* Urbanism 3.0 will be the first lab to decentralise the process of creating a vision for the future of our cities. Details TBD.   
+* DDRL will be the first lab to decentralise the process of creating a vision for the future of our cities. Details TBD.   
 #### MODELS  
 * Everything about design and growth models based on protocols 
 #### PROTOCOLS  
