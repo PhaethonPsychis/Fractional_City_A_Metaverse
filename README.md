@@ -28,7 +28,7 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 #### PROTOCOLS  
 * Governance, Collectives, and Risk Management
 
-## PROTOCOLS AND DECENTRALIZED APPLICATION FOR URBANISM 3.0
+## DECENTRALIZED APPLICATIONS
 ### COLLECTIVE DEVELOPMENT: WEBUILD
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client" with citizens aas the consumers of the "product"<br><br>
 The WEBUILD flip this model on its head. WEBUILD enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. WEBUILD offers a powerful solution for societies to advance new private cities,  and how the value created is distributed back to the citizens.
