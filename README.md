@@ -26,6 +26,7 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 * Everything about design and growth models based on protocols 
 #### Urbanism 3.0 PROTOCOLS  
 * Urbanism 3.0 applications are standards specifying features or processes. They are based on the Ethereum Improvement Proposals (EIPs).
+* Oracles. TBD
 
 ## DECENTRALIZED APPLICATIONS
 In general there are two types of applications on top of Urbanism 3.0 platform. The first category is protocols providing communities with more powerful ways of  managing and entering into public-community partnerships for building Autonomous cities and creating Special Economic Zones on blockchain. The second category is core protocols for developing novel forms of urbanism and governance of the commons.
@@ -62,6 +63,8 @@ Fractional ownership in public goods or a city is a new paradigm that is creatin
 ####  cyber-to-urban interactions. connected cyber-urban environments. Programmable Avatars and governance
 In its final form the cyber-urban city exposes a metaverse that becomes the interface to our physical urban and architectural environment. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.
 
+### CYBER URBAN WORLDS
+In its final form Urbanism 3.0 becomes the interface to experience our physical urban and architectural environments from within a virtual world. The new  environment that enables cyber-to-urban interactions is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules
 
 
 ## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
