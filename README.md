@@ -79,14 +79,17 @@ An address system-domain names in a virtual city
 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
 The vision for cyber urban worlds: 
-Urbanism 3.0 introduces the domain of cyber urban commons 3.0 to program the creation, governance maintenance, and renewal of commonly shared resources in cyberspace, the urban environment, and the natural world. 
-Cyber urban commons 3.0 are public goods
+In Urbanism 3.0 the pool of commonly shared resources consists of the urban environment, the natural world and the open internet
 
-Urbanism 3.0 provides the means [programmabeplatform] to organize any kind of a public good, as a cooperative on-blockchain 
+Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A protocol to connect a public good to a community-owned and operating protocol that is governed through cyberspace.
 
-The cyber urban commons 3.0 are resources that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets.
+Cyber urban commons 3.0 assigns the creation, governance maintenance, and renewal of commonly shared resources to programmable protocols that run on the open internet.
 
-This is the Urbanism 3.0 version of a cooperative: think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the power station, rather than [insert] sold to individuals. or they can delegate these decisions to a group of experts
+Cyber urban commons 3.0 are decentralized applications to enable the  deployment of cooperative structures on the blockchain around public goods.
+
+The cyber urban commons 3.0 are public goods [resources] that benefit humanity and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets.
+
+This is the Urbanism 3.0 version of a cooperative: think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the cooperative, rather than -insert-sold to individuals.
 
 Urbanism 3.0 offers a variety of models for community governance
 
