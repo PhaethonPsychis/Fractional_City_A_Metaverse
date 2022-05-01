@@ -26,7 +26,7 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 #### MODELS  
 * Everything about design and growth models based on protocols 
 #### PROTOCOLS  
-* Governance, Collectives, and Risk Management
+* Governance, Growth, and Risk Management
 
 ## DECENTRALIZED APPLICATIONS
 In general there are two types of applications on top of Urbanism 3.0 platform. The first category is protocols providing communities with more powerful ways of  managing and entering into public-community partnerships for building Autonomous cities and creating Special Economic Zones on blockchain. The second category is core protocols for developing novel forms of urbanism and governance of the commons.
