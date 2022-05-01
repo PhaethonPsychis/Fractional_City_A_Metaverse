@@ -1,6 +1,6 @@
 # URBANISM 3.0 — RESEARCH. 
 ## PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM FOR THE NEXT GENERATION URBANISM 3.0
-##### The purpose of Urbanism 3.0 is to create new forms of urbanism enabled by open source decentralised  applications and protocols that run on an open platform that provides strong guaranties about the future execution of the code.<br><br>
+##### The purpose of Urbanism 3.0 is to create new forms of urbanism enabled by open source decentralised  applications and protocols that run on an open platform that provides strong guaranties about the future execution of the code. Urbanism 3.0 introduces a fundamentally new class of cities that are connected to cryptoeconomic organisms — decentralized, entities that exist entirely in cyberspace, maintained by a combination of cryptography, economics, and social consensus.<br><br>
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.<br>
 The integration of the crypto-web3 domain into the field of architecture and urbanism unlocks a completely new and innovative domain of projects and research, pushing the boundaries of these disciplines in new directions. 
 
@@ -48,23 +48,21 @@ The urban commons 3.0 solves the problem of governing resources used by many ind
 
 
 #### This is the Urbanism 3.0 version of a public goods cooperative:<br> 
-think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the cooperative, rather than -insert-sold to individuals. Version of this model is the Bitcoin network and Ethereum 2.0  <br>
+think of a community of people that vote for the production of electricity from fusion reactors. The community would own the reactors and contribute to the joint development of the cooperative, rather than the current model - where the electricity is produced by large corporations for private profit. The benefits of the commons are distributed among the members of the community who contribute to the development of the cooperative.<br>
 
-#### City 3.0 is network an autonomous cooperatives 
-All types of Common resources, natural jabitats, public services, private, or nonprofit organizations can be organized as crypto cooperatives. City 3.0 is a decentralized network of cooperatives that manage different commons. City 3.0 is also a public good that is jointly owned and managed by all the cooperatives.
+Any type of organization in the public services sector, urban infrastructure or a Common resources, such as a natural jabitats, can be organized as a crypto-cooperatives. City 3.0 is a decentralized network of cooperatives that manage the commons. City 3.0 is also a public good that is jointly owned and managed by citizens, delegators and cooperatives.
 
-#### Urban Governance is dynamic and programmable. Cyber-to-urban interactions
+#### Urban Governance is dynamic and programmable. 
 Urbanism 3.0 offers a variety of models for community governance 
 offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
 Urban resources management. The management of assets in an autonomous city is done by a decentralized network of cooperatives. The cooperatives are responsible for managing all forms of risk. In a blockchain environment, this is happening real-time and is open source.
 
 #### Collective ownership: New classes of assets
 Fractional ownership in public goods or a city is a new paradigm that is creating new types of asset classes [insert]in the physical and cyberspace. It is a new way of managing and developing the city's assets that includes public goods, utilities, and natural resources. This type of ownership allows for collective governance and management of these assets for the benefit of the city as a whole.
-####  cyber-to-urban interactions. connected cyber-urban environments. Programmable Avatars and governance
-In its final form the cyber-urban city exposes a metaverse that becomes the interface to our physical urban and architectural environment. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.
 
-### CYBER URBAN WORLDS
-In its final form Urbanism 3.0 becomes the interface to experience our physical urban and architectural environments from within a virtual world. The new  environment that enables cyber-to-urban interactions is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules
+### CONNECTED CYBER URBAN WORLDS
+In its final form the Urbanism 3.0 exposes a metaverse that becomes the interface to our physical urban and architectural environment. It is populated by avatar representations of real people that collectively own the cyber-urban space and the physical city.
+The new  environment that enables cyber-to-urban interactions is where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules
 
 
 ## THE $DDRL Token Unlocks Unique Participation in Future Experiences and Storylines
@@ -78,8 +76,9 @@ The $DDRL token is live! The official contract address is:
 
 #### Token design
 $DDRL is our foundational token with a Circulation Supply 220,000,000 token. It is designed as participatory token to unlock the value of the network.
-The token enables users to participate in the decision making process and vote on the direction and implementation of the project 
-Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br>
+The token enables holders to participate in the decision making process and vote on the direction and implementation of the research 
+The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
+Additional features:
 #### Decentralised Integrated storytelling: 
 How $DDRL will enable a global community to link different stories together and collectively shape the visions of our collective futures?<br>
 The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
@@ -108,5 +107,6 @@ A Virtual Land. Get the most desirable address at an iconic location. A registry
 ### 📬 Name and addresses registry. Launch hackathon event
 An address system-domain names in a virtual city
 
+## CONCERNS
 
 This is a living document and we will update it as the community grows and the project evolves.<br>
