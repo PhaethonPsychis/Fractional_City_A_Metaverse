@@ -1,5 +1,5 @@
 # URBANISM 3.0 — RESEARCH. 
-## PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM FOR THE NEXT GENERATION OF URBANISM
+## PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM FOR THE NEXT GENERATION URBANISM 3.0
 ##### The purpose of Urbanism 3.0 is to create new forms of urbanism enabled by open source decentralised  applications and protocols that run on an open platform that provides strong guaranties about the future execution of the code.<br><br>
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.<br>
 The integration of the crypto-web3 domain into the field of architecture and urbanism unlocks a completely new and innovative domain of projects and research, pushing the boundaries of these disciplines in new directions. 
@@ -29,6 +29,7 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 * Governance, Collectives, and Risk Management
 
 ## DECENTRALIZED APPLICATIONS
+In general there are two types of applications on top of Urbanism 3.0 platform. The first category is protocols providing communities with more powerful ways of  managing and entering into public-community partnerships for building Autonomous cities and creating Special Economic Zones on blockchain. The second category is core protocols for developing novel forms of urbanism and governance of the commons.
 ### COLLECTIVE DEVELOPMENT: WEBUILD
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client" with citizens aas the consumers of the "product"<br><br>
 The WEBUILD flip this model on its head. WEBUILD enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. WEBUILD offers a powerful solution for societies to advance new private cities,  and how the value created is distributed back to the citizens.
