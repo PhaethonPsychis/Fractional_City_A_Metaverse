@@ -1,5 +1,5 @@
 # URBANISM 3.0 — RESEARCH. 
-## Urbanism protocols and decentralized application platform
+## URBANISM PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM
 ##### The purpose of Urbanism 3.0 is to create new forms of urbanism enabled by open source decentralised  applications and protocols that run on an open platform that provides strong guaranties about the future execution of the code.<br><br>
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.<br>
 The integration of the crypto-web3 domain into the field of architecture and urbanism unlocks a completely new and innovative domain of projects and research, pushing the boundaries of these disciplines in new directions. 
@@ -14,24 +14,24 @@ There is an opportunity for a community-collective to champion the production of
 note: the term "crypto" is a shortcut to "cryptographic blockchain technology" where "blockchain" is 
   
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
-### URBANISM 3.0 WILL SHAPE THE FUTURE OF CITIES AND FORM THE METROPOLIS OF THE FUTURE
+#### URBANISM 3.0 WILL SHAPE THE FUTURE OF CITIES AND FORM THE METROPOLIS OF THE FUTURE
 We are introducing a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape the domain of Urbanism 3.0 as an area of study and a framework to explore, invent and construct our collective future.<br><br>
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
 This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
 
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
-#### THE CITIES OF THE FUTURE
-* Vision  
-* Models and Protocols  
+#### VISION
+TBD    
+#### MODELS AND 
+Growth models based on protocols 
+#### PROTOCOLS  
 * Governance, Collectives, and Risk Management
 
-#### WEBUILD: COLLECTIVE DEVELOPMENT
+## PROTOCOLS AND DECENTRALIZED APPLICATION FOR URBANISM 3.0
+### COLLECTIVE DEVELOPMENT: WEBUILD
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client" with citizens aas the consumers of the "product"<br><br>
 The WEBUILD flip this model on its head. WEBUILD enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. WEBUILD offers a powerful solution for societies to advance new private cities,  and how the value created is distributed back to the citizens.
-
-#### PROTOCOLS and DECENTRALIZED APPLICATION PLATFORM for URBANISM 3.0
-## DECENTRALISED APPLICATIONS
 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
 The vision for cyber urban worlds: <br>
