@@ -36,22 +36,20 @@ The WEBUILD flip this model on its head. WEBUILD enables a collective of people 
 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
 The vision for cyber urban worlds: <br>
-Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A class of protocols to connect a public good to a community-owned and operating network that collectively decide on the allocation of resources. The protocol is immutable blocks of code -insert- <br>
+Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A class of protocols to connect a public good to a community-owned and operated network that collectively decide on the allocation of resources. <br>
 Cyber urban commons 3.0 are decentralized applications to enable the  deployment of institutional structure of cooperative organizations on the blockchain around public goods.<br>
 The city use the novel commons 3.0 mechanism to assign the creation, governance maintenance, and renewal of commonly shared resources to protocols that run on the open internet for the citizens to access and participate.<br>
 
-The cyber urban commons 3.0 are public goods [resources] that benefit humanity and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets. The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
+The cyber urban commons 3.0 are public goods [resources] that benefit humanity. Commons 3.0 They are new classes of assets that generate revenue for the city which is distributed to the shareholders, "the citizens".
+
+The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
 
 
 #### This is the Urbanism 3.0 version of a public goods cooperative:<br> 
 think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the cooperative, rather than -insert-sold to individuals. Version of this model is the Bitcoin network and Ethereum 2.0  <br>
 
-
 #### City 3.0 is network an autonomous cooperatives 
-All types of Common resources, natural jabitats, public services, private, or nonprofit organizations are organized as crypto cooperatives on the "blockchains network" and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
-The urban commons are assets that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens." <br>
-
-
+All types of Common resources, natural jabitats, public services, private, or nonprofit organizations can be organized as crypto cooperatives. City 3.0 is a decentralized network of cooperatives that manage different commons. City 3.0 is also a public good that is jointly owned and managed by all the cooperatives.
 
 #### Urban Governance is dynamic and programmable. Cyber-to-urban interactions
 Urbanism 3.0 offers a variety of models for community governance 
@@ -74,8 +72,10 @@ The $DDRL token is live! The official contract address is:
 
 * CREATOR: [phaethon.eth @ 0x427759bFe7b72E06eC6c8a4DA9AB1994F8315A29](https://etherscan.io/address/0x427759bfe7b72e06ec6c8a4da9ab1994f8315a29)
 
-
-### Token features include:
+#### Token design
+$DDRL is our foundational token with a Circulation Supply 220,000,000 token. It is designed as participatory token to unlock the value of the network.
+The token enables users to participate in the decision making process and vote on the direction and implementation of the project 
+Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br>
 #### Decentralised Integrated storytelling: 
 How $DDRL will enable a global community to link different stories together and collectively shape the visions of our collective futures. The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
 $DDRL will be the first project to decentralise the process of creating a vision for the future of our cities. Each $DDRL holder serves as part of the storytelling process enabling them to vote on key aspects of a vision, including storyline, characters, and art.  
@@ -83,10 +83,6 @@ $DDRL will be the first project to decentralise the process of creating a vision
 #### Exclusive Art and Behind-the-Scenes Access: 
 In addition to exclusive access to future NFT drops, $DDRL token holders that vote on the vision building process will receive exclusive art and behind-the-scenes content from their favourite creators. Details TBD
 
-#### Token design
-$DDRL is our foundational token with a Circulation Supply 220,000,000 token. It is designed as participatory token to unlock the value of the network.
-The token enables users to participate in the decision making process and vote on the direction and implementation of the project 
-Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br><br>
 #### Governance and Delegation of voting power 
 TBD
 #### Incentives and reward system
@@ -94,7 +90,7 @@ TBD
 
 
 ## CONTRACTS
-
+TBD
 
 ## UPCOMING EVENTS
 
