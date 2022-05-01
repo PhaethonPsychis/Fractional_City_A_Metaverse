@@ -24,7 +24,7 @@ The lab is a work in progress that challenges the norms of how we conceive, buil
 #### VISION
 * TBD    
 #### MODELS  
-* Growth models based on protocols 
+* Everything about design and growth models based on protocols 
 #### PROTOCOLS  
 * Governance, Collectives, and Risk Management
 
