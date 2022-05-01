@@ -42,7 +42,7 @@ The city use the novel commons 3.0 mechanism to assign the creation, governance 
 The cyber urban commons 3.0 are public goods [resources] that benefit humanity and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets.
 
 
-This is the Urbanism 3.0 version of a cooperative:<br> 
+#### This is the Urbanism 3.0 version of a public goods cooperative:<br> 
 think of a community of people that vote for the production of electricity from fusion and contribute to the joint development of the cooperative, rather than -insert-sold to individuals<br>
 Urbanism 3.0 offers a variety of models for community governance 
 
