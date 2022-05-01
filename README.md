@@ -13,7 +13,7 @@ There is an opportunity for a community-collective to champion the production of
 
 note: the term "crypto" is a shortcut to "cryptographic blockchain technology"
   
-## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
+## THE ZEROX DECENTRALIZED DESIGN AND DEVELOPMENT RESEARCH LAB
 #### URBANISM 3.0 WILL SHAPE THE FUTURE OF CITIES AND FORM THE METROPOLIS OF THE FUTURE
 We are introducing a research lab to help bridge the technologies and ecosystem of Ethereum with the field of Urban Design and to help shape the domain of Urbanism 3.0 as an area of study and a framework to explore, invent and construct our collective future.<br><br>
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
@@ -23,7 +23,7 @@ The lab operates as an open-source research hub with permissionless access for o
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
 #### VISION
 TBD    
-#### MODELS AND 
+#### MODELS  
 Growth models based on protocols 
 #### PROTOCOLS  
 * Governance, Collectives, and Risk Management
