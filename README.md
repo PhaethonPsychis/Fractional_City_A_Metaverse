@@ -19,14 +19,13 @@ We are introducing a research lab to help bridge the technologies and ecosystem 
 Decentralised participation is at the heart of this project in which self-organised teams of international researchers come to the lab to collaborate on complex problems that necessitate progressive and shared ideas to construct our cities. <br><br>
 This is a new type of lab that is organized as a collective on blockchain and functions as a platform allowing communities to pool their resources and collectively fund research for the cities of the future.
 The lab operates as an open-source research hub with permissionless access for open public discussion and joint development enabling all relevant disciplines to come together and increase collaboration across the field.Its native token economy creates a decentralized market for talent that enables people anywhere to contribute to value creation in a truly meritocratic fashion.<br><br>
-
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
 #### VISION
-* TBD    
+* Urbanism 3.0 will be the first project to decentralise the process of creating a vision for the future of our cities. Details TBD.   
 #### MODELS  
 * Everything about design and growth models based on protocols 
-#### PROTOCOLS  
-* Governance, Growth, and Risk Management
+#### Urbanism 3.0 PROTOCOLS  
+* Urbanism 3.0 applications are standards specifying features or processes. They are based on the Ethereum Improvement Proposals (EIPs).
 
 ## DECENTRALIZED APPLICATIONS
 In general there are two types of applications on top of Urbanism 3.0 platform. The first category is protocols providing communities with more powerful ways of  managing and entering into public-community partnerships for building Autonomous cities and creating Special Economic Zones on blockchain. The second category is core protocols for developing novel forms of urbanism and governance of the commons.
@@ -77,7 +76,8 @@ $DDRL is our foundational token with a Circulation Supply 220,000,000 token. It 
 The token enables users to participate in the decision making process and vote on the direction and implementation of the project 
 Holders can use the token to collaborate with each other, to make decisions about a project and to coordinate work. The purpose of the token system is to enable the organic formation of permissionless working groups where everyone can participate and contribute to value creation in a truly meritocratic fashion.<br>
 #### Decentralised Integrated storytelling: 
-How $DDRL will enable a global community to link different stories together and collectively shape the visions of our collective futures. The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
+How $DDRL will enable a global community to link different stories together and collectively shape the visions of our collective futures?<br>
+The challenge for cities will be to create stories that are compelling and interesting enough to get people to pay attention. They will also need to find ways to make sure that these stories are accessible to everyone, regardless of their level of technical expertise. 
 $DDRL will be the first project to decentralise the process of creating a vision for the future of our cities. Each $DDRL holder serves as part of the storytelling process enabling them to vote on key aspects of a vision, including storyline, characters, and art.  
 
 #### Exclusive Art and Behind-the-Scenes Access: 
@@ -97,10 +97,10 @@ TBD
 ### 🌐 Design and Research Hackathon: The Autonomous City
 Global competition event. A unique transformative economic and social reform blueprint that brings a region up to the world standard. Details TBD
 
-### 🏙 Metaverse Lands. Launch event 
+### 🏙 Metaverse Lands. Launch hackathon event 
 A Virtual Land. Get the most desirable address at an iconic location. A registry of who owns what land to experiment with novel ID systems in a city
 
-### 📬 Name and addresses registry. Launch event
+### 📬 Name and addresses registry. Launch hackathon event
 An address system-domain names in a virtual city
 
 ## FAQ AND NOTES
