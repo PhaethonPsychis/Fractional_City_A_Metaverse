@@ -81,11 +81,9 @@ An address system-domain names in a virtual city
 The vision for cyber urban worlds: 
 In Urbanism 3.0 the pool of commonly shared resources consists of the urban environment, the natural world and the open internet
 
-Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A protocol to connect a public good to a community-owned and operating protocol that is governed through cyberspace.
-
-Cyber urban commons 3.0 assigns the creation, governance maintenance, and renewal of commonly shared resources to programmable protocols that run on the open internet.
-
-Cyber urban commons 3.0 are decentralized applications to enable the  deployment of cooperative structures on the blockchain around public goods.
+Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A protocol to connect a public good to a community-owned and operating network that is governed through a protocol.
+Cyber urban commons 3.0 are decentralized applications to enable the  deployment of cooperative structures on the blockchain around public goods and contain immutable rules in coded format.
+A city assigns the creation, governance maintenance, and renewal of commonly shared resources to protocols that run on the open internet for the citizens to access and participate.
 
 The cyber urban commons 3.0 are public goods [resources] that benefit humanity and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets.
 
