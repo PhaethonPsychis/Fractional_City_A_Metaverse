@@ -39,7 +39,7 @@ Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A class of proto
 Cyber urban commons 3.0 are decentralized applications to enable the  deployment of institutional structure of cooperative organizations on the blockchain around public goods.<br>
 The city use the novel commons 3.0 mechanism to assign the creation, governance maintenance, and renewal of commonly shared resources to protocols that run on the open internet for the citizens to access and participate.<br>
 
-The cyber urban commons 3.0 are public goods [resources] that benefit humanity and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets.
+The cyber urban commons 3.0 are public goods [resources] that benefit humanity and generate revenue for the city which is distributed to the shareholders, "the citizens".  They are new classes of assets. The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
 
 
 #### This is the Urbanism 3.0 version of a public goods cooperative:<br> 
@@ -49,7 +49,7 @@ think of a community of people that vote for the production of electricity from 
 #### City 3.0 is network an autonomous cooperatives 
 All types of Common resources, natural jabitats, public services, private, or nonprofit organizations are organized as crypto cooperatives on the "blockchains network" and are collectively governed by the community. The AC is a decentralized network of cooperatives that manage different commons. The AC is a public good that is jointly owned and managed by all the cooperatives.
 The urban commons are assets that benefit humanity [public goods] and generate revenue for the city which is distributed to the shareholders, "the citizens." <br>
-The urban commons 3.0 solves the problem of governing resources used by many individuals in common where collective action can either preserve the commons or deplete it.
+
 
 
 #### Urban Governance is dynamic and programmable. Cyber-to-urban interactions
