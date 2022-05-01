@@ -125,7 +125,7 @@ By introducing a Metaverse we enable communities and local governance to take es
 #### Use the Metaverse to create an economic and social reform blueprint <br>
 Autonomous Cities with the use of Cyber-Urban Environments are a critical response to the failures of centrally-planned government policies.
 
-####⚡️ The Metaverse is the interface to create new cities!
+#### ⚡️ The Metaverse is the interface to create new cities!
 This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
 Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
 
