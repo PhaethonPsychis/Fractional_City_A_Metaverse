@@ -32,6 +32,8 @@ In general there are two types of applications on top of Urbanism 3.0 platform. 
 ### COLLECTIVE DEVELOPMENT: WEBUILD
 Building private cities has traditionally been a centralized industry with a lot of friction at every step of the process. Projects are built by partnerships of nations, institutional investors, and very large contractors. while the role of the operating teams, architects, consultants etc. is to execute the "vision of the client" with citizens aas the consumers of the "product"<br><br>
 The WEBUILD flip this model on its head. WEBUILD enables a collective of people to jointly contribute to the development of a city backed by fractional ownership in the city's revenue streams. WEBUILD offers a powerful solution for societies to advance new private cities,  and how the value created is distributed back to the citizens.
+By introducing a Urbanism 3.0 we enable communities and local governance to take essential next steps in starting very large scale urbanization developments.
+Urbanism 3.0 has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.
 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
 The vision for cyber urban worlds: <br>
@@ -102,41 +104,6 @@ A Virtual Land. Get the most desirable address at an iconic location. A registry
 
 ### 📬 Name and addresses registry. Launch hackathon event
 An address system-domain names in a virtual city
-
-## FAQ AND NOTES
-
-###  What kind of technology is the metaverse? Is not VR
-The Cyber Urban Metaverse— is a group of technologies that encompasses blockchain cooperatives, digital assets, virtual land systems, decentralized governance, and social platforms— <br><br>
-Metaverses are networks of complex decentralized open-source code applications designed to serve communities
-### 🛸 A Metaverse for collective ownership of cities, and decentralized, programmable governance!
-
-Everyone can own a fraction of the city, and help shape its future.🎖 Fractional ownership unlocks the potential of the world’s most sought after assets: Cities!<br><br>
-🏄🏽‍♂️⛹️‍♂️🚴🏿‍♀️ DDRL Metaverse is specifically constructed to enable a collective of people to jointly contribute to the development of a new city from scratch.<br>
-
-### The Cyber-Urban City.
-DDRLM offers a better model for how societies should develop cities, how citizens participate in the production and governance of public goods, and how the value created is distributed back to the citizens. <br><br>This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment. <br><br>
- 
-#### The Cyber Urban Metaverse—increases our capacity to fund and develop entire new cities
-By introducing a Metaverse we enable communities and local governance to take essential next steps in starting very large scale urbanization developments.<br> The Metaverse has the potential to draw citizens from around the world and reach new groups of people who are looking for a business community with shared social, cultural or economic goals.<br><br> 
-#### Use the Metaverse to create an economic and social reform blueprint <br>
-Autonomous Cities with the use of Cyber-Urban Environments are a critical response to the failures of centrally-planned government policies.
-
-#### ⚡️ The Metaverse is the interface to create new cities!
-This is a metaverse specifically designed to enable a collective of people to jointly contribute to the development of a city, acquire a fraction in city's revenues, and participate in collective decision making.<br>
-Fractional ownership in a city is a new paradigm that is creating new types of asset classes in the physical, and cyber space. These multi dimensional assets are used for the collective governance, management and development of the city.<br>
-
-This innovation, still very early in its evolution, serves as the basis for the development of new forms of cities arising from the interaction of the virtual world with the physical urban environment. <br><br>
-
-### 💎 A new era for cyber-urban life. The Metaverse is the interface to experience our urban environments!
-In its final form this metaverse becomes the interface to our physical urban and architectural environments, populated by avatar representations of real people that collectively own the cyber-urban space.<br><br>
-The new cyber-urban environment is a Metaverse where contemporary urban people create a new era of cyber-urban life in a way that unlocks the capacity of our societies to discover and implement new ideas and new rules.<br>
-
-
-
-
-
-
-
 
 
 This is a living document and we will update it as the community grows and the project evolves.<br>
