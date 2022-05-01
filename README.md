@@ -22,9 +22,9 @@ The lab operates as an open-source research hub with permissionless access for o
 
 The lab is a work in progress that challenges the norms of how we conceive, build and live within our environment. The crypto-ubanism framework of research is comprised of three pillars
 #### VISION
-TBD    
+* TBD    
 #### MODELS  
-Growth models based on protocols 
+* Growth models based on protocols 
 #### PROTOCOLS  
 * Governance, Collectives, and Risk Management
 
