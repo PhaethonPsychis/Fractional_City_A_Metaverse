@@ -11,7 +11,7 @@ We are only just beginning to explore the potential of crypto[graphy], open-inte
 
 There is an opportunity for a community-collective to champion the production of the first collectively-owned Autonomous City, and create a new era for cities. Building cities is the single most important act of production within society and as such is the entity through which nations most clearly express their global aspirations and generate economic opportunity. The new crypto-urbanism [protocol and decentralized application platform] uses public-community partnerships to unlock the potential of communities to fund and finance new cities from scratch. <br><br>
 
-note: the term "crypto" is a shortcut to "cryptographic blockchain technology" where "blockchain" is 
+note: the term "crypto" is a shortcut to "cryptographic blockchain technology"
   
 ## THE ZEROX DECENTRALIZED DESIGN and DEVELOPMENT RESEARCH LAB
 #### URBANISM 3.0 WILL SHAPE THE FUTURE OF CITIES AND FORM THE METROPOLIS OF THE FUTURE
