@@ -55,7 +55,7 @@ Any type of organization in the public services sector, urban infrastructure or 
 #### Urban Governance is dynamic and programmable. 
 Urbanism 3.0 offers a variety of models for community governance 
 offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
-Urban resources management. The management of assets in an autonomous city is done by a decentralized network of cooperatives. The cooperatives are responsible for managing all forms of risk. In a blockchain environment, this is happening real-time and is open source.
+
 
 #### Collective ownership: New classes of assets
 Fractional ownership in public goods or a city is a new paradigm that is creating new types of asset classes [insert]in the physical and cyberspace. It is a new way of managing and developing the city's assets that includes public goods, utilities, and natural resources. This type of ownership allows for collective governance and management of these assets for the benefit of the city as a whole.
