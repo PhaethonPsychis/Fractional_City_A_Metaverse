@@ -1,6 +1,6 @@
 # URBANISM 3.0 — RESEARCH. 
 ## PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM FOR THE NEXT GENERATION URBANISM 3.0
-##### The purpose of Urbanism 3.0 is to create new forms of urban Governance and models of urban design enabled by open source decentralised  applications and protocols that run on an open platform that provides strong guaranties about the future execution of the code.<br> Urbanism 3.0 introduces a fundamentally new class of cities that are connected to cryptoeconomic organisms — decentralized, entities that exist entirely in cyberspace, maintained by a combination of cryptography, economics, and social consensus.<br><br>
+##### The purpose of Urbanism 3.0 is to create new forms of urban Governance and models of urban design enabled by open source decentralised  applications and protocols that run on top of public blockchains that provide strong guaranties about the future execution of the code.<br> Urbanism 3.0 introduces a fundamentally new class of cities that are connected to cryptoeconomic organisms — decentralized, entities that exist entirely in cyberspace, maintained by a combination of cryptography, economics, and social consensus.<br><br>
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.<br>
 The integration of the crypto-web3 domain into the field of architecture and urbanism unlocks a completely new and innovative domain of projects and research, pushing the boundaries of these disciplines in new directions. 
 
@@ -39,7 +39,7 @@ Urbanism 3.0 has the potential to draw citizens from around the world and reach 
 ### THE AUTONOMOUS REGIONAL METROPOLIS: CYBER-URBAN COMMONS 3.0  
 The vision for cyber urban worlds: <br>
 Urbanism 3.0 introduces the concept of cyber urban commons 3.0. A class of protocols to connect a public good to a community-owned and operated network that collectively decide on the allocation of resources. <br>
-Cyber urban commons 3.0 are decentralized applications to enable the  deployment of institutional structure of cooperative organizations on the blockchain around public goods.<br>
+Cyber urban commons 3.0 are decentralized applications to enable the deployment of the institutional structure of autonomous urban commons, a hybrid model of cooperative organizations on the blockchain around public goods.<br>
 The city use the novel commons 3.0 mechanism to assign the creation, governance maintenance, and renewal of commonly shared resources to protocols that run on the open internet for the citizens to access and participate.<br>
 
 The cyber urban commons 3.0 are public goods [resources] that benefit humanity. Commons 3.0 They are new classes of assets that generate revenue for the city which is distributed to the shareholders, "the citizens".
