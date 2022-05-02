@@ -1,6 +1,6 @@
 # URBANISM 3.0 — RESEARCH. 
 ## PROTOCOLS AND DECENTRALIZED APPLICATION PLATFORM FOR THE NEXT GENERATION URBANISM 3.0
-##### The purpose of Urbanism 3.0 is to create new forms of urban Governance and models of urban design enabled by open source decentralised  applications and protocols that run on top of public blockchains that provide strong guaranties about the future execution of the code.<br> Urbanism 3.0 introduces a fundamentally new class of cities that are connected to cryptoeconomic organisms — decentralized, entities that exist entirely in cyberspace, maintained by a combination of cryptography, economics, and social consensus.<br><br>
+##### The purpose of Urbanism 3.0 is to enable novel forms of urban Governance and models of urban design enabled by open source decentralised  applications and protocols that run on top of public blockchains that provide strong guaranties about the future execution of the code.<br> Urbanism 3.0 introduces a fundamentally new class of cities that are connected to cryptoeconomic organisms — decentralized, entities that exist entirely in cyberspace, maintained by a combination of cryptography, economics, and social consensus.<br><br>
 Ethereum, a blockchain computer that is fully programmable, has a unique property: It enables societies to write permanent code that has clear rules about how it will work in the future. That property has enabled the emergence of an independent field of knowledge and a space for innovation—The crypto-web3 domain.<br>
 The integration of the crypto-web3 domain into the field of architecture and urbanism unlocks a completely new and innovative domain of projects and research, pushing the boundaries of these disciplines in new directions. 
 
@@ -53,8 +53,7 @@ think of a community of people that vote for the production of electricity from 
 Any type of organization in the public services sector, urban infrastructure or a Common resources, such as a natural jabitats, can be organized as a crypto-cooperatives. City 3.0 is a decentralized network of cooperatives that manage the commons. City 3.0 is also a public good that is jointly owned and managed by citizens, delegators and cooperatives.
 
 #### Urban Governance is dynamic and programmable. 
-Urbanism 3.0 offers a variety of models for community governance 
-offering a variety of models, such as the appointment of delegators where redistribution of votes is dynamic and not associated with an "election" event to happen.<br><br>
+Urbanism 3.0 provides a variety of models for community governance as code blocks allowing anyone to compose their own arbitrary rules for ownership, voting procedures, or delegation of voting power. The coordination costs can be radically reduced in new types of decentralized networks, in which smart contracts enable participants to govern cooperatively.
 
 
 #### Collective ownership: New classes of assets
