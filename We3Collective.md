@@ -14,7 +14,7 @@ This project might lead to Science Fiction literature, TV series, film, art, dig
 #### Integrated Storytelling: <br>
 Each $BUILD token serves as part of the storytelling process allowing fans to vote on key aspects, including storyline, characters, and digital media art to help drive the ongoing narrative.
 #### Exclusive Art and Behind-the-Scenes Access:<br> 
-In addition to exclusive access to future drops, $BUILD holders that vote on the Bat Cowl comic will receive exclusive art and behind-the-scenes content throughout the creation of the project.
+In addition to exclusive access to future drops, $BUILD holders that participate through vote  will receive exclusive art and behind-the-scenes content throughout the creation of the project.
  
 #### About Web3
 Programmable Web3 can edit, re-program, and redesign components, systems, and interactions that make up social, economic, and political systems, scientific fields, design research domains, and any type of organization public, private, or cooperative.
